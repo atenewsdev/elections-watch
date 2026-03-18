@@ -8,8 +8,19 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  /* Custom fonts — add new ones here as --font-<name>: var(--font-<name>); */
+  --font-montserrat: var(--font-montserrat);
+  --font-antenna-med: var(--font-antenna-med);
+  --font-antenna-bold: var(--font-antenna-bold);
+
+  --color-blue-50: #EEF0FC;
+  --color-blue-100: #C2CCF4;
+  --color-blue-200: #8DA4EC;
+  --color-blue-300: #517DE2;
+  --color-blue-400: #345AAC;
+  --color-blue-500: #203A72;
+  --color-blue-600: #14171E;
 }
 
 @media (prefers-color-scheme: dark) {
