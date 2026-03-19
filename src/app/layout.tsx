@@ -23,6 +23,16 @@ const antennaBold = localFont({
   variable: "--font-antenna-bold",
 });
 
+const publicoBold = localFont({
+  src: "./fonts/publico-bold.otf",
+  variable: "--font-publico-bold",
+});
+
+const publicoRoman = localFont({
+  src: "./fonts/publico-roman.otf",
+  variable: "--font-publico-roman",
+});
+
 export const metadata: Metadata = {
   title: "Elections Watch",
   description: "Atenews Elections Watch",
@@ -35,7 +45,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${montserrat.variable} ${antennaMed.variable} ${antennaBold.variable} antialiased`}>
+      <body className={`${montserrat.variable} ${antennaMed.variable} ${antennaBold.variable} ${publicoBold.variable} ${publicoRoman.variable} antialiased`}>
         <Navbar />
         {children}
         <Footer />

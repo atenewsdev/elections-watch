@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #F3F4FF;
   --foreground: #171717;
 }
 
@@ -13,6 +13,8 @@
   --font-montserrat: var(--font-montserrat);
   --font-antenna-med: var(--font-antenna-med);
   --font-antenna-bold: var(--font-antenna-bold);
+  --font-publico-bold: var(--font-publico-bold);
+  --font-publico-roman: var(--font-publico-roman);
 
   --color-blue-50: #EEF0FC;
   --color-blue-100: #C2CCF4;
@@ -23,12 +25,6 @@
   --color-blue-600: #14171E;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 body {
   background: var(--background);
