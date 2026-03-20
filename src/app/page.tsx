@@ -1,7 +1,6 @@
 import PageHeader from "@/components/PageHeader";
 import Carousel from "@/components/Carousel";
 import RoundedButton from "@/components/RoundedButton";
-import Image from "next/image";
 
 
 export default function Home() {

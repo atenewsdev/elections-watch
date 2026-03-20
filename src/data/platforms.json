@@ -1,0 +1,1365 @@
+{
+  "mickyla-almadin": {
+    "theme": "\"The Mika Path\" (Make a Path)",
+    "categories": [
+      {
+        "name": "Path 4-You: Making Way for Inclusivity",
+        "items": [
+          {
+            "title": "The Pulse-Point Agenda: SAMAHAN Voice Path",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Pulse-Point Agenda unifies SAMAHAN's governance functions into one structured pathway for student representation. Through OSG's Ateneo PULSE, student concerns are systematically gathered. Through OSVP's Legis It!, these concerns are refined into formal proposals. Strategic focus points, centered but not limited to academic equity, holistic health, and institutional transparency, are integrated throughout this process to provide clear direction and guide the student body, in identifying their needs."
+              },
+              {
+                "type": "paragraph",
+                "text": "SAMAHAN Voice Path, under the Office of the SAMAHAN President, serves as the actualization arm, consolidating endorsed proposals, elevating them to the University Academic Council (UAC) and relevant offices, and ensuring sustained follow-through."
+              },
+              {
+                "type": "paragraph",
+                "text": "This system ensures that student voices do not end at feedback or drafting, they move forward into formal dialogue, representation, and institutional action."
+              }
+            ]
+          },
+          {
+            "title": "Post-Palaro & UFest Health Break Initiative",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "After the high energy, late nights, and physical exhaustion brought by Palaro and UFest season, SAMAHAN would lobby for this health break initiative to be included in the university calendar, a campus-wide recovery initiative focused on helping students reset, recharge, and refocus."
+              },
+              {
+                "type": "paragraph",
+                "text": "This program recognizes that while big events build school spirit, they can also leave students physically tired, mentally drained, and academically overwhelmed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Path of Purpose (Opportunities)",
+        "items": [
+          {
+            "title": "Blue Career Connect",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Blue Career Connect is a recurring, semester-based initiative that serves as a direct bridge between Ateneans and real employment opportunities, with structured hiring pathways open to all students of all programs and year levels. Anchored to the specific career needs of each academic cluster, this initiative complements and strengthens both cluster-based career fairs and a university-wide general career fair to ensure targeted and inclusive opportunities for all."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Hiring Partner Network – A curated pool of companies actively hiring interns, part-timers, and fresh graduates, matched to both cluster-specific and general recruitment needs."
+                  },
+                  {
+                    "text": "On-Campus Recruitment Days – Recurring mini job fairs conducted in partnership with the Ateneo Pathways Office and relevant offices to translate engagement into actual interviews and hiring.",
+                    "subpoints": [
+                      "Cluster-Specific Career Fairs – Separate career fairs organized per academic cluster, focusing on industries, roles, and hiring partners aligned with the distinct professional pathways of each field.",
+                      "University-Wide Career Fair – A general career fair open to all programs, bringing together diverse industries for broader exploration and cross-disciplinary opportunities."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Through Blue Career Connect, every Atenean, especially graduating students, is given a clearer, better-supported, and continuously accessible pathway from education to employment."
+              }
+            ]
+          },
+          {
+            "title": "Likhang Atenean: The Atenean Talent Showcase",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "As part of the 2nd Semester Opener, this platform is a dedicated \"open-event\" space for the recognition and celebration of Atenean talent. Unlike traditional competitions, this is a non-competitive venue focused on showcasing student creativity and fostering community appreciation in a pressure-free environment."
+              },
+              {
+                "type": "paragraph",
+                "text": "While the event is open to all, it goes beyond a simple display; to ensure meaningful recognition, special awards will be given to standout submissions to honor their craftsmanship and contribution to campus culture. To elevate these artists, members of the press and external partners may be invited to provide sponsorships and career-building opportunities for the further enhancement of their talents."
+              },
+              {
+                "type": "bullets",
+                "label": "Event features:",
+                "points": [
+                  {
+                    "text": "Gallery Walk: A curated exhibition in Arrupe Hall for visual artists."
+                  },
+                  {
+                    "text": "Live Performances: A spotlight for musicians, dancers, and spoken word artists."
+                  },
+                  {
+                    "text": "Student Marketplace: A venue for Atenean-owned brands and ventures to grow their reach."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "In partnership with the Treasurer's Platform of Salo-Salo, the celebration concludes with a community meal. Immediately following the awarding of special honors for our best talents, food will be provided for the students to celebrate our collective identity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Path of Presence (Accessibility)",
+        "items": [
+          {
+            "title": "Access Ateneo: A Campus Without Barriers",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Access Ateneo is a student-led lobbying initiative, carried out in coordination and active communication with relevant university offices, to ensure that every Atenean, especially PWD students, can move across campus safely, independently, and with dignity. Through sustained representation and policy engagement, students can expect tangible, visible improvements that make daily campus life more accessible and inclusive."
+              },
+              {
+                "type": "bullets",
+                "label": "Students will gain:",
+                "points": [
+                  {
+                    "text": "Clear and visible accessibility signage across campus for easier navigation."
+                  },
+                  {
+                    "text": "An updated PWD-friendly campus map highlighting accessible entrances, ramps, elevators, restrooms, and safe routes."
+                  },
+                  {
+                    "text": "Safer and more reliable pathways between buildings and common areas."
+                  },
+                  {
+                    "text": "Reduced mobility barriers in key student spaces."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Through coordinated lobbying and institutional collaboration, Access Ateneo ensures that inclusivity is translated into concrete, long-term structural improvements on campus."
+              }
+            ]
+          },
+          {
+            "title": "Harvest Link: Roots in Action Program",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Harvest Link is SAMAHAN's institutionalized agriculture and entrepreneurship advocacy, held annually at Arrupe Hall in partnership with the B&M Cluster. This initiative transforms the campus into a shared marketplace where local farmers and student-led ventures collaborate, creating direct market access and practical business engagement."
+              },
+              {
+                "type": "bullets",
+                "label": "Through Harvest Link, we aim to:",
+                "points": [
+                  {
+                    "text": "Provide sustainable selling opportunities for local farmers through direct-to-consumer booths."
+                  },
+                  {
+                    "text": "Empower student entrepreneurs through hands-on market exposure and real-world enterprise."
+                  },
+                  {
+                    "text": "Build lasting partnerships between the university and regional farming communities."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "To ensure impact goes beyond the marketplace, the Roots in Action Program provides sustained support through:"
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Community Farm Immersions: Organized visits where students assist in harvesting and farm work."
+                  },
+                  {
+                    "text": "Adopt-a-Farm Initiative: Coordinated drives providing tools, seedlings, and logistical support."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "By bridging entrepreneurship and agriculture, Harvest Link empowers local producers while forming socially responsible, community-driven Ateneans."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "juelianna-muhalli": {
+    "theme": "\"Motions with Juels\"",
+    "categories": [
+      {
+        "name": "Legis It!: Direct Resolution Suggestion System",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Institutionalizing participatory governance, the Legis It!: Direct Resolution Suggestions System will be created to allow students to submit policy suggestions directly to the Student Assembly."
+          },
+          {
+            "type": "paragraph",
+            "text": "Suggestions will be reviewed on a regular schedule, endorsed to appropriate committees, and publicly tracked to ensure accountability. Students who submit proposals will be informed of the status of their suggestions, fostering trust in the legislative process."
+          }
+        ],
+        "items": []
+      },
+      {
+        "name": "Act-ivize!: Participatory Governance and Legislative Capacity Program",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Strengthening student governance by linking sectoral engagement, advocacy development, and legislative action across SAMAHAN units, clusters, and partner student bodies. Through two student-centric programs:"
+          }
+        ],
+        "items": [
+          {
+            "title": "The Multisectoral Council Convention",
+            "body": [
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "An annual gathering of SAMAHAN sectors and clusters beyond formal Student Assembly sessions. The convention serves as a space for advocacy presentation, project transparency, recruitment, and dialogue. Each sector and cluster will present their core advocacies, ongoing initiatives, and plans for the academic year."
+                  },
+                  {
+                    "text": "Advocacy booths will allow students to engage directly with representatives, raise concerns, and register as members or volunteers. All concerns and proposals raised will be consolidated by the Office of the Vice President into a Post-Convention Issue Report to be endorsed to relevant Student Assembly committees for legislative consideration."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "The Ateneo Parliament: Beyond the Gates",
+            "body": [
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "TAP: BTG is a Davao-wide legislative capacity-building initiative that equips students with the skills needed to act on sectoral concerns."
+                  },
+                  {
+                    "text": "Building on the existing program of the OSVP, this institutionalizes and expands regular training and workshops on legislative literacy, resolution drafting, committee work, and participatory governance. Sessions will be conducted in partnership with Student Assembly members, external resource persons, offices like BUKLOD Atenista, UNYON Mindanao, and other partner schools."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Students for Locale: Strengthening Our Participation Through Local Legislation",
+            "body": [
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Strengthening participation in local legislation that forwards and puts students' concerns at the forefront. This ensures that concerns are translated into real, binding action that improves student life both inside and beyond the university."
+                  },
+                  {
+                    "text": "Through connecting with Local Government Units, like the Davao City Youth Development Council (DCYDC), this ensures that relevant resolutions, particularly in relation to education and youth-based concerns, will be forwarded to the locale and felt by the locals outside the university gates."
+                  },
+                  {
+                    "text": "The OSVP will be a bridge between student sectors and lawmakers by gathering concerns, helping shape policy proposals, and making sure student voices are well represented in legislation."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Take up Space!: Integrated Learning Access Program",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "A student-centered initiative that improves access to both conducive study spaces and essential academic resources, recognizing that effective learning depends on environment and tools."
+          }
+        ],
+        "items": [
+          {
+            "title": "Lobbying for Additional Study Spaces",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "While the university provides libraries and classrooms, demand rises sharply during peak academic periods, often leading to overcrowding and limited access, particularly affecting students who rely on campus facilities due to home constraints. Silid Aralin addresses these gaps through lobbying and maximizing available study spaces while strengthening support for students' academic needs."
+              }
+            ]
+          },
+          {
+            "title": "SAMAccess+ (Subscription Aid Program)",
+            "body": [
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "A pilot initiative that explores partnerships and negotiated access to essential academic and productivity tools commonly used by students. These may include writing and editing software (e.g., Grammarly), academic research and scholarly literature databases, citation, and reference management tools."
+                  },
+                  {
+                    "text": "Through student needs assessments, pilot distributions, and feasibility evaluations, SAMAccess+ will identify which tools provide the most impact and can be sustainably expanded. The program prioritizes equitable access while ensuring responsible use of resources."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "alaisa-abjilina": {
+    "theme": "\"One Kells Away — An OST Within Reach\"",
+    "categories": [
+      {
+        "name": "One Call to Serve: Empowering the Students onto the Next",
+        "body": [],
+        "items": [
+          {
+            "title": "CUARTA 2.0: Ateneo Treasurer's Capacity Exchange",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Rooted in the commitment to empower financial leadership, this platform brings together treasurers across the Ateneo community through three-fold finance-enrichment sessions that build capacity from the basics to the technicalities of income-generating initiatives, financial management, and liquidation practices."
+              }
+            ]
+          },
+          {
+            "title": "BlueKnights in Action",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Institutionalizing SAMAHAN's presence to support the athletes and performers for official games and activities. This initiative primarily focuses on partnering with the College Athletics Council ensuring that the student body journeys with the athletes by providing them with pabaon tradition to boost athletes' morale in competitions."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "One Call to Connect: Bridging the Ateneo Community Together",
+        "body": [],
+        "items": [
+          {
+            "title": "SAMAHAN sa Arrupe",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Office of the SAMAHAN Treasurer will host a fellowship salo-salo at Arrupe Hall, offering simple snacks for student motivation. In partnership with the Office of the SAMAHAN President's Likhang Atenean initiative, the gathering will also serve as a space to highlight and celebrate Atenean talent and creativity."
+              }
+            ]
+          },
+          {
+            "title": "The Sponsorship Access Pass",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Office of the SAMAHAN Treasurer will establish and regularly update a centralized database of sponsorship perks, making partner discounts and privileges easy for all students to access. Through clear guidelines, the initiative ensures that every Atenean can maximize and make meaningful use of the benefits offered by SAMAHAN partners."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "One Call to Lead: Guiding the System Forward",
+        "body": [],
+        "items": [
+          {
+            "title": "Sustainable OST",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "In pursuit of making the Office of the SAMAHAN Treasurer more efficient and more student-centric, the resource borrowing and free printing initiatives will feature clear schedules, online sign-ups, pre-registered systems, and wider access for students by providing a separate platform that directly addresses them all. Also, access to the free printing shall be made easier through a designated stall in Arrupe Hall scheduled to be during activity periods."
+              }
+            ]
+          },
+          {
+            "title": "Transparent SAMAHAN",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "In pursuit of making the Office of the SAMAHAN Treasurer more efficient and more student-centric, the resource borrowing and free printing initiatives will feature clear schedules, online sign-ups, pre-registered systems, and wider access for students by providing a separate platform that directly addresses them all. Also, access to the free printing shall be made easier through a designated stall in Arrupe Hall scheduled to be during activity periods."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rana-guerra": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "Let's Respond Now: Real-Time Networked Governance",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "The Office of the Secretary-General operates through innovative methods in responding to student needs. The RESPOND NOW system functions as an active commitment to Real-Time Networked Governance. This aims to ensure that students' needs are promptly received and attended to by synchronizing efforts through a system framed with initiatives of the Office of the SAMAHAN President and Office of the SAMAHAN Vice President."
+          }
+        ],
+        "items": [
+          {
+            "title": "The Ateneo Pulse",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Ateneo Pulse adds as a new component in the SAMAHAN website that operates as a real-time feedback mechanism for the students. The website component will serve as a consultative feature where students can vote in favor of or against every pending agenda, policy, resolution, and lobbying efforts before it is finalized. While not the deciding factor, these results provide a clear look at student needs, helping ensure that every action taken is well-informed and responsive to the community."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Let's Realign Now: Responsive Navigation & Guidance",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "For years, students have dealt with unclear, constantly changing processes at the university, resulting in delays, confusion, and wasted time. REALIGN NOW aims to address this by ensuring that what students need and what the administration requires are aligned early on—not only when problems already occur. The Office of the SAMAHAN Secretary-General will act as the main bridge between students and admin, providing a clear guide so processes run faster and more easily."
+          }
+        ],
+        "items": [
+          {
+            "title": "Pre-Semester Sync-Up",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Institutionalized under the SAMAHAN Code of Internal Procedures, SAMAHAN will formalize the mandatory courtesy visits to university admin offices before each semester starts. The Office of the SAMAHAN Secretary-General will consolidate all gathered data on university processes to ensure SAMAHAN's steps moving forward directly address the efficiency of students' daily transactions, such as enrollment and financial clearances."
+              }
+            ]
+          },
+          {
+            "title": "Responsive Alignment Model",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "After the sync-ups, SAMAHAN will prepare a report highlighting the transactional problems and delays students commonly face. This will lead to a Roundtable Discussion with admin offices, where SAMAHAN will lobby for clearer, smoother, and more consistent processes across the university to improve students' daily experience."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Let's Record Now: Reliable New Generation",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "RECORD NOW institutionalizes a standardized system of record-keeping to ensure that student services don't slow down due to leadership transitions. By mandating all important documents and processes to be properly stored and passed on, we end the inefficient yearly cycle of \"starting from zero\". This platform ensures every administration builds on the progress already made, giving students faster, smoother, and more consistent services."
+          }
+        ],
+        "items": [
+          {
+            "title": "The Blue Archive",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Blue Archive institutionalizes document turnover by shifting record ownership from individual officers to the Office, ensuring the student body's right to transparency is backed by a permanent, accessible system. This reform eliminates data loss during transitions by implementing a two-phase verification system:"
+              },
+              {
+                "type": "subitems",
+                "items": [
+                  {
+                    "title": "Mid-Term Record Checking",
+                    "text": "A mid-year review of all departmental records to prevent data backlogs and ensure all administrative progress is documented in real-time."
+                  },
+                  {
+                    "title": "Final Turnover Meeting",
+                    "text": "A required meeting where outgoing and incoming officers go through all files together, verify accuracy, and sign off on the complete archive, ensuring the next administration starts strong and informed."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "earl-sumalnap": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "ACC Week: The Griffin Salubong",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "ACC Week is a year-opener set of festive activities that welcomes Griffins, especially first-year students, as the new academic year begins. This is an opportunity for the cluster to introduce the Accountancy Student Executive Council (ASEC), its academic organizations, and clubs, while also organizing events that encourage students to start the academic year with a positive, vibrant attitude."
+          }
+        ],
+        "items": [
+          {
+            "title": "Accountancy Fiesta",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Fiesta-inspired activities will be held to provide an alternative avenue for building rapport among students and faculty. The events held are non-competitive and emphasize community building, enjoyment, and camaraderie."
+              },
+              {
+                "type": "paragraph",
+                "text": "This supports the more structured and competitive Accountancy General Assembly in creating a welcoming and fun environment where Griffins feel a sense of belonging and feel that the cluster is their home."
+              }
+            ]
+          },
+          {
+            "title": "Accountancy Recruitment Week",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Separate, full-blown club orientations will be organized to ensure clubs have adequate time to introduce themselves and conduct their recruitment gimmicks efficiently and effectively."
+              },
+              {
+                "type": "paragraph",
+                "text": "This is also an opportunity for the cluster to find prospective participants for major university events such as Palarong Atenista, UFest, and Festival of Excellence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ACC-Ademe: The Griffin Academic Support",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "ACC-Ademe is a platform that supports Griffins' academic growth by offering academic resources and empowering existing free, student-led tutorial services. ASEC, through its academic arm, ASSETS, will acquire past licensure examination reviewers, test banks, and more, preparing Griffins for both their current academic endeavors and future licensure examinations."
+          },
+          {
+            "type": "paragraph",
+            "text": "Through ACC-Ademe, ASEC will provide financial support to sustain ASSETS' operations, including the continued, regular offering of tutorial services in both face-to-face and online settings."
+          }
+        ],
+        "items": []
+      },
+      {
+        "name": "ACC-To-Date: The Griffin Calendar",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "ACC-To-Date is an information platform that keeps Griffins informed about curricular, co-curricular, and extra-curricular activities within the cluster. This aims to ensure that Griffins are well-informed, up to date, and engaged in upcoming events and major academic assessments."
+          },
+          {
+            "type": "paragraph",
+            "text": "A QR code will be posted on the official social media pages of the Accountancy Student Executive Council (ASEC), allowing students to integrate the created schedules into their G Suite ecosystem."
+          }
+        ],
+        "items": []
+      },
+      {
+        "name": "ACC-Celebrate: The Griffin Year-End Celebration",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "ACC-Celebrate is a year-end formal event that gathers Griffins together to celebrate the academic year. This is intended to be an avenue for students to connect with one another and commemorate the success of the Accountancy cluster."
+          },
+          {
+            "type": "paragraph",
+            "text": "ASEC will partner with its two (2) academic organizations, four (4) clubs, four (4) year-level student executive councils, and the BSA and BSMA sections to ensure that every Griffin is included and to maximize resources."
+          }
+        ],
+        "items": [
+          {
+            "title": "ACC-Knowledge: The Griffin Awards",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "An event that recognizes the efforts, contributions, and commitments of Griffins. This includes students with excellent academic performance, athletes, performers, and student leaders in the cluster."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ACC-Xternal Partnerships: The Griffin Network",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "ACC-Xternal Partnerships is an avenue for Griffins to connect with firms and businesses by providing structured, coordinated support for internship opportunities and application requirements. This platform aims to complement existing academic and administrative processes, easing the internship application process for Griffins."
+          }
+        ],
+        "items": [
+          {
+            "title": "ACC 101: Internship One-Stop Drive",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "A one-stop drive will be created where Griffins can see the companies they are allowed to apply to for internships, along with a collated list of requirements for each company. This information will be shared with the Griffins from first to fourth year."
+              },
+              {
+                "type": "paragraph",
+                "text": "A Google Sheets will also be created to reflect real-time updates regarding internship application availability. This will help Griffins determine which companies are still accepting applications, helping them manage their time and resources."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "craig-alonzo": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "For Every VIBE: The B&M Xperience",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "The B&M Cluster aims to make B&M Xperience a student-centric initiative that strengthens community, promotes student welfare, and fosters meaningful connections among B&M students through inclusive, engaging, and accessible activities. The B&M Cluster aims to create shared spaces where students can unwind, participate, and feel a stronger sense of belonging within the B&M community, in tailored-fit timelines."
+          },
+          {
+            "type": "paragraph",
+            "text": "Key activities include The Commons (Flea Market & Bash), which provides a vibrant social and creative space where entrepreneurs can buy, sell, and showcase goods while enjoying the atmosphere. B&M Court Runs encourage physical wellness, teamwork, and sportsmanship through beginner-friendly ball court games open to all B&M students. B&M Trivia offers interactive, collaborative, and fun sessions on a variety of topics, complete with incentives and prizes to encourage engagement."
+          },
+          {
+            "type": "paragraph",
+            "text": "The B&M Xperience promotes its holistic, student-first design, which combines social connection, wellness, learning, entrepreneurship, and leisure in one cohesive experience."
+          }
+        ],
+        "items": []
+      },
+      {
+        "name": "For Every VIPER: Student Think Tank",
+        "body": [],
+        "items": [
+          {
+            "title": "Viper Launchpad",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster aims to bring practical, accessible workshops and activities directly to B&M students through council-led collaboration with academic and non-academic organizations within the cluster. The B&M Cluster ensures that, by centralizing these initiatives, students gain equal access to skill-building opportunities, career exposure, professional connections, and avenues to explore personal hobbies and interests, provided by organizations within the Viper community."
+              },
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster provides a structured cluster activity timeline (Google Calendar) to help students plan ahead, avoid scheduling conflicts, and participate consistently. The B&M Cluster ensures that every program is purpose-driven, inclusive, and impactful, offering regular students."
+              }
+            ]
+          },
+          {
+            "title": "Senior Assistance Framework",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster proposes a structured OJT Assistance System to help B&M students complete their required internship hours by participating in or creating accredited activities, forums, and events within the university."
+              },
+              {
+                "type": "paragraph",
+                "text": "To support students, the program provides standardized templates and access to a curated network of speakers, partners, and accredited opportunities, ensuring efficient planning and execution while meeting academic requirements. Activities under this framework are officially recognized and, where applicable, translated into OJT hours (based on the curriculum), giving students tangible credit for their efforts."
+              },
+              {
+                "type": "paragraph",
+                "text": "Acting as both a partner and assisting body, the program equips students with initiative, practical experience, organizational skills, and professional exposure, while ensuring that their contributions are acknowledged and aligned with academic standards."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "For Every ADVOCACY: Start Up",
+        "body": [],
+        "items": [
+          {
+            "title": "Start Up",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster aims to establish a yearly, cluster-wide advocacy platform that brings together all 7 academic programs under B&M, spearheaded by Y.E.S. and AGREES, to advocate for one advocacy, directed towards the empowerment of local farmers and promote sustainable agriculture. Held at Arrupe Hall in partnership with UCEAC, the event creates a shared marketplace where students entrepreneurs and local farmers sell fresh produce and locally made products to both the campus community and the public."
+              },
+              {
+                "type": "paragraph",
+                "text": "The platform is designed to foster collaboration between student entrepreneurs and local agricultural sectors, providing practical and hands-on opportunities for learning, community engagement, and collaborative project management. Beyond commerce, Start Up raises awareness of the value of local farming communities, promoting responsible consumption and practices, and the empowerment of farmers, particularly in the vegetable and fruit sectors."
+              },
+              {
+                "type": "paragraph",
+                "text": "As a yearly advocacy initiative, Start Up unites students across all B&M programs to actively pursue agricultural advocacy, strengthen partnerships with farmers, and develop real-world business and leadership skills, all while contributing meaningfully to the sustainability and growth of local agriculture in the Philippines."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "For Every SYSTEM: The Blue Print",
+        "body": [],
+        "items": [
+          {
+            "title": "Vi-Brant Unit",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster aims to establish the Vi-Brant Unit, an aspirant and volunteer program for current and newly enrolled students designed to introduce them to the organizational landscape and responsibilities of the cluster."
+              },
+              {
+                "type": "paragraph",
+                "text": "Through structured participation in activities, volunteer initiatives, Master Class Sessions, and Onboarding programs, students receive guided training, mentorship, and familiarization with B&M organizations. This helps them gain confidence, develop leadership skills, and understand how they can meaningfully contribute."
+              },
+              {
+                "type": "paragraph",
+                "text": "The program provides a flexible, inclusive pathway for nurturing the Viper Leaders of Tomorrow, giving participants opportunities for growth while allowing B&M organizations to expand their reach. Students are further incentivized through certificates for completion, service experience attributed to their curriculum vitae, networking opportunities with mentors, and the chance to be formally appointed as members of B&M organizations."
+              }
+            ]
+          },
+          {
+            "title": "Pathway Planner",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster aims to establish a centralized lobbying system for students to submit course requests for the academic year or summer term, ensuring their academic needs are clearly communicated and considered."
+              },
+              {
+                "type": "paragraph",
+                "text": "By consolidating these requests into actionable data, department chairs can better assess demand and strategically allocate classes, addressing student priorities proactively. Student Executive Councils (SECs) play a key role in this process by assisting in collecting, organizing, and validating the course request data. This system reduces enrollment uncertainties, improves access to needed courses, and ensures students' academic plans are supported, making course availability more responsive to actual student needs within the B&M Cluster."
+              }
+            ]
+          },
+          {
+            "title": "Viper Integrated Primer (V.I.P)",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The B&M Cluster aims to establish a comprehensive B&M one-stop information hub that consolidates all essential details about programs, organizations, administrative offices, facilities, network, and career opportunities, with the B&M Cluster. It serves as a central resource for students to efficiently navigate their academic and extracurricular journey."
+              },
+              {
+                "type": "paragraph",
+                "text": "For students considering shifting programs, the VIP provides curriculum overviews for all B&M programs, including course prerequisites and sequences, along with step-by-step guides for the shifting process to clarify requirements and procedures, and FAQs. It also addresses frequently asked questions, ensuring students have reliable answers at their fingertips."
+              },
+              {
+                "type": "paragraph",
+                "text": "The VIP will be mobilized and maintained through a collaborative effort involving the Course Officio, Course Representatives, and the B&M Department of Academic Affairs, guaranteeing that the information remains accurate, up-to-date, and easily accessible to all students."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rainzy-canada": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "#CAÑadaCAN Collaborate",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "This pillar centers on nurturing the internal talent within the Computer Studies cluster. It ensures that Chammies are given a platform to gain experience and lead, turning individual potential into collective strength."
+          }
+        ],
+        "items": [
+          {
+            "title": "Linking Skills",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Chammies should be more than just an entry in a database. We are transforming the Chammie Sonar from general data gathering into a Talent Roster that links unique proficiencies directly to cluster involvements."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Mechanism: Spearheaded by the Year Representatives at the start of every semester, we will conduct a comprehensive skills census via GForms to match students with specific events. This ensures the CSSEC serves as the connecting bridge, inviting Chammies (especially Freshmen and Sophomores) to gain hands-on experience in roles that fit their growth, ensuring that every placement is intentional and aligned with student development."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Linking Stories",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "This platform introduces a fresh approach to cluster journalism, creating a connective hub for the CS community to bloom through storytelling. This moves beyond standard announcements to document the achievements of Chammies in competitions, industry innovations, and community partners."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Mechanism: To prevent burnout and ensure consistent output, we will implement a \"Sprint & Rotate\" workflow. The CSSEC and its committees will work in focused phases to produce batches of content ahead of time, ensuring regular posts on the CSSEC Website and Facebook Page even during busy academic weeks. Furthermore, we will actively tap into the Talent Roster (from Linking Skills) to recruit guest contributors for specific features, ensuring the workload is distributed across the cluster rather than falling solely on a few officers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "#CAÑadaCAN Connect",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "This pillar brings the influence of the CS Cluster outward to the university and faculty. It is committed to being a strong advocate for all Chammies, ensuring that student rights are protected and constituent feedback is transformed into high-quality, data-driven policy."
+          }
+        ],
+        "items": [
+          {
+            "title": "Linking Rights",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "This platform serves as a holistic assessment of the Chammie experience following major academic hurdles. It moves beyond complaints to focus on constructive feedback regarding student well-being and the academic environment."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Mechanism: The Office of the President will conduct anonymous Post-Exam Check-ins via GForms after every major exam.",
+                    "subpoints": [
+                      "Step 1 (Internal): Data is anonymized and synthesized into a report.",
+                      "Step 2 (Dialog): These findings are primarily presented to the Department Chairs and Assistant Dean to foster a collaborative resolution within the cluster.",
+                      "Step 3 (Escalation): If formal written responses are not provided within a reasonable timeframe, the data will be escalated to the University-wide StRAW or SAMAHAN Department of Academic Affairs for further assistance."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Linking Policy",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "This acts as a bridge between constituent-driven feedback and formal university policy. Working in tandem with the CSSEC Processors Team, the Council will ensure that the concerns and sentiments shared by Chammies are systematically documented and formally endorsed."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Mechanism: We will conduct Targeted Policy Surveys in the middle of each semester to gather specific feedback on grading systems, workload distribution, consultation hours, and academic support services. The CSSEC Processors Team will compile this data and officially endorse the findings to the Office of the External Vice President, providing the necessary evidence to advocate for student-centric policies."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "#CAÑadaCAN Coordinate",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "This pillar focuses on ensuring the Council is a constant, reliable presence for the CS Cluster. This pillar is dedicated to active advocacy, ensuring that no Chameleon is left behind."
+          }
+        ],
+        "items": [
+          {
+            "title": "Linking Communication",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "This platform ensures the communication line between the CS Cluster and the faculty remains active and highly responsive. Through scheduled regular consultations with the Department and Cluster Administration, we ensure that event reports and student feedback are officially relayed to the faculty."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Mechanism: We will conduct Strategic Consultations with the CS administration to discuss cluster updates and concerns. To ensure transparency, the CSSEC will release summarized transparency reports accompanied by documentation when appropriate and with consent after these sessions. This keeps the community in the loop regarding the steps being taken to address student concerns."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "jc-jaravata": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "Howling Beginnings: HUMLET Stepping Forward",
+        "body": [],
+        "items": [
+          {
+            "title": "Career Connect Fair",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "A three-day career fair recognizes the diversity of academic pathways within the cluster, aiming to prepare HUMLET students for future careers and professional environments. The event will introduce students to various companies, stakeholders, and enterprises affiliated with the cluster's internship programs, connecting them to industries related within the HUMLET academic discipline such as journalism, marketing, public relations, media, production, and corporate communications."
+              }
+            ]
+          },
+          {
+            "title": "Career Skills Summit",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Complementing the Career Connect Fair, the Skills Summit aims to equip HUMLET students with essential professional and workplace skills while further strengthening key competencies aligned with their chosen career interests."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Informative sessions and forums led by industry experts will be integrated to provide students with deeper insights into their desired career pathways."
+                  },
+                  {
+                    "text": "The Skills Summit will also feature practical workshops designed to strengthen foundational professional competencies, including résumé writing and portfolio development."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "HUMLET HowlFest",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "A festive one-day, culminating celebration featuring a variety of interactive and engaging activities that promote cluster camaraderie and a strong sense of community."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "The year-end celebration will showcase the cluster's performances from previous university events, including Sayawhenista, Battle of the Bands, and the Star Search performances of UFest."
+                  },
+                  {
+                    "text": "HUMLET academic clubs will also be given an opportunity within the program to highlight their milestones and achievements throughout the academic year."
+                  },
+                  {
+                    "text": "Familiar activities conducted in university events, such as a lip sync battle and interactive games, will be incorporated into the celebration."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wolf Works: HUMLET Sharpening Optimization",
+        "body": [],
+        "items": [
+          {
+            "title": "Smart Reservation System",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "A digital reservation system to ensure organized, productive, and efficient use of the Humanities Division facilities while preventing overlapping bookings and scheduling conflicts in the hub."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Using Google Forms, students, faculty, staff, and administrators can easily reserve spaces by scanning a QR code displayed at the hub's front desk, replacing the traditional pencil-and-paper method."
+                  },
+                  {
+                    "text": "Additionally, a separate QR code provides access to a digital schedule in Google Sheets, allowing users to view facility availability in real-time and secure their bookings quickly and efficiently."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Quick Access Resource Vault",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "A digital reservation, inventory, and viewfinder system for accessing basic equipment such as cameras, tripods, and microphones. This equipment is frequently used for academic or extracurricular purposes, supporting students in a wide range of projects and activities."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "Using Google Forms, students can easily reserve equipment by scanning the QR code placed at the front desk of the Humanities Division."
+                  },
+                  {
+                    "text": "Through Google Sheets, students can access a digital inventory and viewfinder that shows the real-time availability of resources, the borrowing status of each item and the borrower's details."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Community Cluster Calendar",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "A digital calendar showcasing the events, programs, and initiatives of the Humanities and Letters Student Executive Council (HUMLET SEC) and HUMLET academic clubs—Interdisciplinary Studies Association (ISA), Society of Ateneo Literature and English Language Mavens (SALEM), and Samahan ng mga Mag-aaral ng Sining at Komunikasyon (SINIKOM)."
+              },
+              {
+                "type": "bullets",
+                "points": [
+                  {
+                    "text": "The calendar is managed through Google Calendar and accessible via a scannable QR code. It will be updated each semester to encourage community participation, active involvement, and a sense of belonging among the three (3) Humanities and Letters academic organizations."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Red Revamps: HUMLET Strengthening Capacities",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "A two-day bootcamp designed to equip HUMLET students with skills across various talents and art forms. The masterclasses will offer training in dance, theater, vocal and instrumental performance, filmmaking, and both graphic and traditional arts. The bootcamp engages students in these disciplines to prepare them for their academic pursuits and upcoming university-wide celebrations, such as the annual UFest."
+          }
+        ],
+        "items": []
+      }
+    ]
+  },
+  "franklein-pesucan": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "Flame I: PeSSuCAN LINK CARE",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "SS Student Wellness Support & Competencies. Mental health support should not be reactive; it should be consistent and accessible."
+          }
+        ],
+        "items": [
+          {
+            "title": "Mindflame: SS Cares Wellness Seminar",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Aligning itself with the value of Cura Personalis, the SS Cares Wellness Seminar's key objective is to conduct a wellness seminar (1) and create peer-led safe spaces (2) and partnerships (3) with campus support units. Through strengthened collaboration with the Center of Psychological Extension, Research, and Services (COPERS), the College Guidance, Wellness, and Testing Center (CGWTC), and the Peer Consulting Program (PCP), this platform ensures that Social Sciences students have practical, regular support systems for stress management."
+              }
+            ]
+          },
+          {
+            "title": "Dragons' Care: Certified Training on Psychological First-Aid (PFA) and First-Aid (FA)",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to equip SS students with life skills that are useful in their day-to-day lives. By linking the ADDU Red Cross Youth Council (CRCY) with the Center of Psychological Extension, Research, and Services (COPERS), together with the ADDU National Service Training Corps (NSRC), we will create a space to develop the emergency response and peer-support competencies of our fellow Dragons. In collaboration with professionals and trained personnel, we'll gather SS Dragons who want to learn PFA and FA. Participants will receive certificates as proof of having completed the training."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Flame II: PeSSuCAN LINK LEARNING",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Academic Support & Skill-Building Services. Academic excellence should be supported, not assumed. This pillar links academic demands with direct, practical assistance to skills that align with SS identity."
+          }
+        ],
+        "items": [
+          {
+            "title": "Ash-ignment Kit: Academic Aid Tools",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to aid SS students during examinations. Through a partnership with the SAMAHAN Department of Academic Affairs (DAA) and the Ateneo de Davao Scholars Society (ADDSS), the SS SCALES, the Social Sciences Academic Affairs Committee, will (1) allocate funds for a free reviewer printing service for the first 100 students (up to 15 pages each) through a voucher system, and (2) simple but meaningful tools such as affirmation pens for another first 100 students through a voucher system as well."
+              }
+            ]
+          },
+          {
+            "title": "Thesis Wyrm: Research Workshops",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to equip SS students with strong research skills. Research is the vehicle of education, especially in the Social Sciences programs. Through the SS SCALES, the Social Sciences Academic Affairs Committee, we will create workshops on quality research writing, using statistical tools for research (e.g., SPSS, JASP, etc.), and navigating research journals (e.g., JSTOR, Elsevier, Google Scholar, etc.)."
+              }
+            ]
+          },
+          {
+            "title": "The Ember Editor: Public Speaking and Journalism Workshops",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to develop the critical thinking skills of Social Sciences students. Oral recitations and essay writing are among the key academic learning measures in Social Sciences programs. This can also be a good training ground for our constituents as this prepares students to practice responsible discourse and fact-checking in digital spaces. Through a partnership with Ateneo Debate Varsity (ADV) and Ateneus, The Dragon Post, the official student publication of the Social Sciences cluster, will host workshops on public speaking tips and news writing."
+              },
+              {
+                "type": "paragraph",
+                "text": "Through these, we train SS students to be more research-oriented and equip SS student-writers with skills to analyze day-to-day social issues. Real representation means giving students real academic tools."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Flame III: PeSSuCAN LINK TALENT & SPIRIT",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Talent Development & Unified Cluster Pride. Talent deserves structure. Spirit deserves organization. This pillar ensures Social Sciences dancers, musicians, athletes, and performers are properly supported, fairly funded, and publicly recognized."
+          }
+        ],
+        "items": [
+          {
+            "title": "The Transparadrake: Budget Allocation Transparency for Talent Programs",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to ensure a more transparent and supportive SS SEC to HYDRA and DRACARYS, the resident dance and music ensembles of the Social Sciences cluster. Through the Office of the Internal Vice President, specifically the Talent Committee Heads, we ensure that (1) there is a clear and fair budget support for SS Talents (e.g., food, training expenses, costumes), (2) there is a consistent presence of the SS SEC throughout their preparations, and (3) maintain an open communication between the SS SEC and our Talents."
+              }
+            ]
+          },
+          {
+            "title": "Dragon's Flight: SS UFest and Palaro Send-Off Program",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to (1) gather SS participants and athletes before they enter the battleground (the flight), (2) familiarize themselves with other fellow participants, and (3) boost their overall morale. Through the Office of the Internal Vice President, Office of the External Vice President, specifically the Talent and Sports Committee Heads, we create an SS UFest and Palarong Atenista Send-Off program. This may be simple, but it shows that SS SEC is there for the ones who continue to bring pride to our cluster."
+              }
+            ]
+          },
+          {
+            "title": "Dragon's Roar: SS Cheer Committee (SCC)",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Student participation is often a real challenge in the Social Sciences. This year, through the Office of the Treasurer and Auditor, we will create a place for the SCC under the Logistics Committee. The SCC will now be in charge of (1) conceptualizing banner designs, (2) parade formation during UFest and other events where there might be a parade participated by SS, (3) developing SS Chants, and (4) taking care of our parade paraphernalia (e.g., drums, flags, banners, etc.)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Flame IV: PeSSuCAN LINK TRUST & DIRECTION",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Synodal, Intentional/Strategic, & Spiritual Leadership. Representation is not just presence; it is accountability. This pillar strengthens governance, communication, and inter-cluster coordination."
+          }
+        ],
+        "items": [
+          {
+            "title": "Reportagon: Semestral Release of Financial Reports + Always-open Feedback Forms",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to promote accountable leadership through semestral financial reports (1), and an always-open feedback form (2) to create a clear concern-tracking system. Here, the operational definition of an \"always-open\" form is a GForm link that is pinned in the SS SEC FB page. First, through the Office of the Treasurer and Auditor, the Office of the Public Relations Officer shall publish a summarized financial report of the SEC at the end of every semester. Second, through the Office of the Public Relations (OPRO), the Office of the President-StRAW (OP), and the Office of the Secretary-General (OSG), we create a Google Form that will be open to the public via the social media pages of SS SEC and SS StRAW. Through this, the council makes itself more visible and accessible, and students remain informed about how their concerns are addressed and how resources are utilized."
+              }
+            ]
+          },
+          {
+            "title": "Hatchling's Guide: SS Student Guidebook",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Designed for first-year students, this digital mini handbook contains condensed, important information on existing school policies to brief the freshies. Through the Office of the Public Relations Officer (OPRO) and the Office of the Secretary-General (OSG), we will mobilize the Creatives and Communications Committee to create the guidebook. It will include (1) the SS SEC's identity, description, and mandate, (2) committees under the SS SEC, with contact information (e.g., emails, FB page), (3) most essential school policies like (3.1) grade computation, (3.2) absences and tardiness, (3.3) elevator etiquette, (3.4) uniform policies, and others."
+              }
+            ]
+          },
+          {
+            "title": "The Consultaflame: Monthly EVP & Program Representative Consultation",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The key objective of this is to maintain close contact with SS SEC and the Program Representatives. True to its mandate, the future External Vice President will (1) conduct monthly online consultation meetings to allow the Program Representatives to voice their program concerns; (2) the concerns gathered will be forwarded by the SS SEC EVP to the 7th Student Assembly; (3) from there on, the SS SEC EVP shall endorse or collaborate with the assembly on possible legislative measures or actions."
+              }
+            ]
+          },
+          {
+            "title": "The Dragon's Forge: Capacity-building workshops for SS SEC officers",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To realize all these initiatives, we will ensure that we offer the best and skilled SS SEC officers to the SS Cluster. The key objective is to train newly accepted and appointed SS SEC officers to better serve their constituents. Through linking the past administrations and tapping resource speakers, we will conduct capacity building for each office to teach administrative and technical tasks such as (1) concept paper making, (2) budget proposal making, (3) minutes of the meeting making, (4) public relations matrix/scheme making, (5) communications plan making, (6) room reservation procedures, and etc. This tells us that before we step into the work, we ensure that our officers are competent, efficient, and skilled to work."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "troy-yoldi": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "You'll Define Our Systems",
+        "body": [],
+        "items": [
+          {
+            "title": "Dragon's Purse Revamp",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To address limited funding and the need for enhanced financial reporting, the Dragon's Purse Revamp will expand our community resources by revitalizing our Income-Generating Projects and strengthening our sponsorships department, all while ensuring their sustainability. SS Money Map will complement this agenda by transforming budget management into a supportive, student-centered experience by providing a live digital hub with simple visuals for tracking funds and a straightforward process for securing support."
+              }
+            ]
+          },
+          {
+            "title": "Dragon's Watch and SS Fora",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To bridge the gap in student-council communication and establish a structured process for expressing grievances, the platform introduces the Dragon's Watch and SS Fora. This dual-mechanism strengthens accountability within the council, ensuring that every student concern receives a guaranteed response timeline and that every major council decision, from budgets to structural changes, is presented in a town hall for genuine student input before being finalized."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "You'll Define Our Purpose",
+        "body": [],
+        "items": [
+          {
+            "title": "Siklab ng Siyam",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To prioritize advocacy as a core student pillar and address challenges in securing dedicated mission-based resources across programs, this platform integrates Advocacy Week and the Advocacy Pitch into a single, high-visibility ecosystem for fundraising and education. By securing direct seed funding from a mandatory 15% advocacy budget allocation from the SS SEC budget for the most feasible projects, the initiative ensures sustained community impact while collaborating with the UCEAC and AOSF to connect student-led efforts with real-world partner communities."
+              }
+            ]
+          },
+          {
+            "title": "The Heart of the Dragon: Values in Action",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To expand leadership formation and ensure mission-aligned development for all officer levels, this platform institutionalizes an inclusive growth process. By partnering with Al Qalam, Campus Ministry, and AOSF, it moves ethical leadership to the core of student governance. Utilizing frameworks like the Ateneo Leadership Summit model, the initiative ensures all projects reflect social justice and the University's Mission while honoring the diverse spiritual and cultural identities of the SS Student Body."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "You'll Define Our Strength",
+        "body": [],
+        "items": [
+          {
+            "title": "SS Champion's Package",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To ensure that student representation doesn't come at a personal financial or administrative cost, the Champion's Package establishes a comprehensive support system for our cluster's delegates. By providing logistical, material, and promotional backing for those in university-wide and external competitions and events, we allow our talents to focus entirely on excellence while ensuring they have a full support team standing behind them."
+              }
+            ]
+          },
+          {
+            "title": "The Dragon's Nest",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To address the leadership vacuum and ensure long-term continuity, this platform institutionalizes an elected mandate for First-Year Executive Officers. By providing an early professional training ground, it builds leadership on merit and heart rather than chance, ensuring the leaders of tomorrow are nurtured today. This transition ensures a steady pipeline of capable student leaders ready to sustain the council's mission across all year levels."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "You'll Define Our Future",
+        "body": [],
+        "items": [
+          {
+            "title": "The Social Sciences Congress",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To foster academic synergy and bridge the gap between theory and practice, this flagship summit gathers the most prominent scholars and practitioners to lead high-level lectures and masterclasses. The platform features the revival of Liyab, a cluster-wide thesis presentation that awards direct financial grants for fieldwork to ensure exceptional student research is materially rewarded. By connecting our brightest minds with industry experts, we transform academic rigor into a professional launchpad for every Social Science student."
+              }
+            ]
+          },
+          {
+            "title": "Soar Higher: The SS Careers and Opportunities Pipeline",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "To bridge the gap between graduation and the professional world, Soar Higher: The SS Careers and Opportunities Pipeline serves as an academic and career hub for internships, research grants from external partners, and scholarship opportunities. Through the SS Career Fair and the Grab the Opps Initiative, students are directly connected to external opportunities in government, NGOs, and the private sector. By streamlining these links, we ensure our dragons are equipped to lead far beyond the university halls."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keena-olayres": {
+    "theme": null,
+    "categories": [
+      {
+        "name": "Sustaining Care: Bridging Panther Needs",
+        "body": [],
+        "items": [
+          {
+            "title": "Panther Pop-up Booths",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Panther Pop-Up Booths is a student-led selling platform conducted during nursing events. Students may sell class merchandise, pre-loved clothing, and other approved items, with promotion conducted both online and on-site prior to and throughout the event to help ease the financial demands of Related Learning Experience (RLE) preparation. Participation is voluntary and free of charge."
+              }
+            ]
+          },
+          {
+            "title": "Panther Exchange Hub",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Panther Exchange Hub enables the selling, donation, or borrowing of books, uniforms, and nursing paraphernalia from nursing alumni. To be launched during the 25th Anniversary of the AdDU School of Nursing, the Hub will be housed for long-term at the SON storage room (4th floor, Finster) and organized through a designated storage system. Student volunteers will facilitate transactions and item tracking through a logbook system to ensure accountability and accessibility."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Collective Care: Learning Made Accessible",
+        "body": [],
+        "items": [
+          {
+            "title": "Panther Academic Commons",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Panther Academic Commons is a centralized academic support platform facilitated by student volunteers through a logbook system. It provides standardized clinical and academic templates. In support of upcoming clinical duties, necessary and exhibit forms will be made available at the Mini-Library 4th Floor Finster Building."
+              }
+            ]
+          },
+          {
+            "title": "Panther Resource Library (Physical Collection)",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The Panther Resource Library is an on-site collection of donated nursing textbooks, thesis papers, and case references, located at the SON Mini-Library, 4th Floor of the Finster Building. Designed for convenient access, it serves as a one-stop academic resource within the nursing floor. Still to be managed by designated student volunteers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Caring Legacy: Care Passed Forward",
+        "body": [],
+        "items": [
+          {
+            "title": "Panther Leadership Summit",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Panther Leadership Summit is a 2-day structured leadership formation program designed to shape student leaders through guided training, reflective dialogue, and strategic collaboration. It is in collaboration with PNSA-Davao Chapter to build meaningful connections among student leaders, fostering shared best practices, and cultivating a united network of future healthcare professionals committed to service and impact."
+              }
+            ]
+          },
+          {
+            "title": "Panther Sync",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "The NSEC Website serves as a one-stop digital platform for Panthers, centralizing essential information and resources in one accessible space. The site will host general announcements, Panther Starter Kit (uniform guidelines, paraphernalia list), Event feedback forms, SON FAQs (uniforms, absences, make-ups, endorsements), PATS Reviewers & E-Book Resources, and printable exhibit forms."
+              }
+            ]
+          },
+          {
+            "title": "Panther Beyond",
+            "body": [
+              {
+                "type": "paragraph",
+                "text": "Panthers Beyond is a flagship medical advocacy and service initiative led by NSEC student leaders and volunteers in strong partnership with PNSA - Ateneo, mobilizing nursing students to go beyond campus walls and serve with purpose. The program centers on children who are abandoned and vulnerable, directly supporting the mission of SOS Children's Villages Philippines in Davao City by advocating for their rights, protection, and holistic wellbeing."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "simon-tomaroy": {
+    "theme": "SEA CENTRE Initiatives",
+    "categories": [
+      {
+        "name": "CENTralization",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "This initiative features an EASEC Website that aims to create a centralized and secure digital platform that improves organization, and engagement within the SEA community. The website will provide information about EASEC officers, activities, and course leaders for the Tigers' ease of reference."
+          },
+          {
+            "type": "paragraph",
+            "text": "It will feature departmental attendance tracking and recognitions such as Course of the Month and Course of the Year to encourage excellence. There will also be integration of academic learning support tools, an OJT Directory, and a Tiger Concerns and Welfare section to further strengthen student support and institutional efficiency."
+          }
+        ],
+        "items": []
+      },
+      {
+        "name": "REcognition",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "This initiative recognizes student potential by providing structured opportunities to experience through Workshops, allowing tigers to develop skills before committing as active members of the SEA community."
+          },
+          {
+            "type": "paragraph",
+            "text": "To further spark interest, a Volunteer System will also be implemented for students who wish to explore committee and leadership involvement, serving as a fair and practical benchmark for commitment. Tigers who actively contribute to this community will be formally recognized and shall earn an exclusive EASEC Shirt, EASEC Pin, and a Certification."
+          }
+        ],
+        "items": []
+      }
+    ]
+  }
+}
