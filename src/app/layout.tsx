@@ -35,7 +35,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${montserrat.variable} ${antennaMed.variable} ${antennaBold.variable} antialiased`}>
+      <body suppressHydrationWarning className={`${montserrat.variable} ${antennaMed.variable} ${antennaBold.variable} antialiased`}>
         <Navbar />
         {children}
         <Footer />
