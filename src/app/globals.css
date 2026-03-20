@@ -32,7 +32,7 @@
     0%   { transform: translateX(0); }
     100% { transform: translateX(-50%); }
   }
-}
+
 
   --color-pgls-yellow: #FFCC07;
   --color-pgls-blue: #2C89DF;
