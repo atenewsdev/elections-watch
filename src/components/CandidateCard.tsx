@@ -17,20 +17,18 @@ const partyGradient: Record<string, string> = {
 export default function CandidateCard({
   photo,
   fullName,
-  positionCategory,
-  position,
   politicalParty,
 }: CandidateCardProps) {
   const gradient = partyGradient[politicalParty] ?? partyGradient["INDEPENDENT"];
 
   return (
-    <div className="flex flex-col items-center gap-4 px-6 py-6 w-fit transition-transform duration-300 ease-in-out hover:scale-101">
+    <div className="flex flex-col items-center gap-2 md:gap-4 px-3 py-3 md:px-6 md:py-6 w-fit transition-transform duration-300 ease-in-out hover:scale-101">
       {/* Photo with gradient border */}
       <div
-        className="rounded-2xl p-0.75 shadow-md"
+        className="rounded-xl md:rounded-2xl p-0.75 shadow-md"
         style={{ background: gradient }}
       >
-        <div className="rounded-[14px] overflow-hidden bg-white w-68.5 h-85.75">
+        <div className="rounded-[10px] md:rounded-[14px] overflow-hidden bg-white w-52 h-65 md:w-68.5 md:h-85.75">
           <Image
             src={photo}
             alt={fullName}
@@ -42,11 +40,11 @@ export default function CandidateCard({
       </div>
 
       {/* Name & party */}
-      <div className="flex flex-col items-center gap-1 text-center">
-        <p className="font-antenna-bold text-2xl text-blue-600 leading-tight">
+      <div className="flex flex-col items-center gap-0.5 md:gap-1 text-center">
+        <p className="font-antenna-bold text-base md:text-2xl text-blue-600 leading-tight">
           {fullName}
         </p>
-        <p className="font-montserrat font-semibold text-sm tracking-widest uppercase text-ind-gray">
+        <p className="font-montserrat font-semibold text-[10px] md:text-sm tracking-widest uppercase text-ind-gray">
           {politicalParty}
         </p>
       </div>
