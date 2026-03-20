@@ -49,8 +49,23 @@ export default function Home() {
 
       </div>
 
-
       {/* Deep Dive */}
+      <div className="w-screen px-44 py-20 inline-flex flex-col items-center gap-8">
+
+        {/* Section Heading */}
+        <div className="self-stretch flex flex-col items-center gap-6">
+          <p className="text-blue-400 text-4xl font-bold font-montserrat leading-tight">
+            The Deep Dive
+          </p>
+          <div className="w-40 border-t-2 border-blue-400"/>
+        </div>
+
+        {/* Section Body */}
+        <p className="self-stretch text-blue-400 text-xl font-normal font-montserrat text-center">
+          Look into the critical analysis and in-depth discussion on the SAMAHAN Central Board
+        </p>
+
+      </div>
   
     </div>
   );
