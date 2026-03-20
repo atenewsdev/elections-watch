@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Header from "@/components/Header";
+import PageHeader from "@/components/PageHeader";
 import Carousel from "@/components/Carousel";
 import RoundedButton from "@/components/RoundedButton";
 
@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen items-start bg-[#F3F4FF] overflow-x-hidden">
     
-      <Header />
+      <PageHeader heading="ELECTIONS WATCH" showLogo={true} />
 
       {/* Our Purpose */}
       <div className="w-screen px-44 py-20 inline-flex flex-col items-center gap-8">
