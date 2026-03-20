@@ -1,3 +1,10 @@
+import PageHeader from "@/components/PageHeader";
+
+export default function Home() {
+  return (
+    <main>
+      <PageHeader heading={"Elections\nWatch"} showLogo />
+    </main>
 import Image from "next/image";
 import Header from "@/components/Header";
 import Carousel from "@/components/Carousel";

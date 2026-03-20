@@ -1,0 +1,112 @@
+{
+  "top-4": {
+    "pres": [
+      {
+        "photo": "/candidates/top-4/pres-mickyla-almadin.jpg",
+        "fullName": "Mickyla Loriene B. Almadin",
+        "positionCategory": "top-4",
+        "position": "President",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "vp": [
+      {
+        "photo": "/candidates/top-4/vp-juelianna-muhalli.jpg",
+        "fullName": "Juelianna L. Muhalli",
+        "positionCategory": "top-4",
+        "position": "Vice President",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "treas": [
+      {
+        "photo": "/candidates/top-4/treas-alaisa-abjilina.jpg",
+        "fullName": "Alaisa Kella L. Abjilina",
+        "positionCategory": "top-4",
+        "position": "Treasurer",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "secgen": [
+      {
+        "photo": "/candidates/top-4/secgen-rana-guerra.jpg",
+        "fullName": "Rana Nicole L. Guerra",
+        "positionCategory": "top-4",
+        "position": "Secretary-General",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ]
+  },
+  "cluster-reps": {
+    "acc": [
+      {
+        "photo": "/candidates/cluster-reps/acc-earl-sumalnap.jpg",
+        "fullName": "Earl Vonroy C. Sumalnap",
+        "positionCategory": "cluster-reps",
+        "position": "Accountancy Cluster Representative",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "b&m": [
+      {
+        "photo": "/candidates/cluster-reps/bm-craig-alonzo.jpg",
+        "fullName": "Craig Nathan W. Alonzo",
+        "positionCategory": "cluster-reps",
+        "position": "Business and Management Cluster Representative",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "cs": [
+      {
+        "photo": "/candidates/cluster-reps/cs-rainzy-canada.jpg",
+        "fullName": "Rainzy Belle L. Cañada",
+        "positionCategory": "cluster-reps",
+        "position": "Computer Studies Cluster Representative",
+        "politicalParty": "BAHAGHARI"
+      }
+    ],
+    "humlet": [
+      {
+        "photo": "/candidates/cluster-reps/humlet-jc-jaravata.jpg",
+        "fullName": "Juan Carlos C. Javarata",
+        "positionCategory": "cluster-reps",
+        "position": "Humanities and Letters Cluster Representative",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "ss": [
+      {
+        "photo": "/candidates/cluster-reps/ss-franklein-pesucan.jpg",
+        "fullName": "Franklein Jay M. Pesucan",
+        "positionCategory": "cluster-reps",
+        "position": "Social Sciences Cluster Representative",
+        "politicalParty": "BAHAGHARI"
+      },
+      {
+        "photo": "/candidates/cluster-reps/ss-troy-yoldi.jpg",
+        "fullName": "John Caster Troy L. Yoldi",
+        "positionCategory": "cluster-reps",
+        "position": "Social Sciences Cluster Representative",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "son": [
+      {
+        "photo": "/candidates/cluster-reps/son-keena-olayres.jpg",
+        "fullName": "Keena Marie D. Olyares",
+        "positionCategory": "cluster-reps",
+        "position": "School of Nursing Cluster Representative",
+        "politicalParty": "PIGLASAPAT"
+      }
+    ],
+    "sea": [
+      {
+        "photo": "/candidates/cluster-reps/sea-simon-tomaroy.jpg",
+        "fullName": "Simon Justin F. Tomaroy",
+        "positionCategory": "cluster-reps",
+        "position": "School of Engineering & Architecture Cluster Representative",
+        "politicalParty": "INDEPENDENT"
+      }
+    ]
+  }
+}
