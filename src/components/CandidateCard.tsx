@@ -32,8 +32,8 @@ export default function CandidateCard({
           <Image
             src={photo}
             alt={fullName}
-            width={274}
-            height={343}
+            width={2048}
+            height={2048}
             className="object-cover w-full h-full"
           />
         </div>
