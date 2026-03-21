@@ -237,10 +237,9 @@ export default async function CandidateProfilePage({
 
       {/* Back button */}
       <div className="flex justify-center mt-16">
-        <RoundedButton
-          text="Back to Candidates Profile"
-          href="/candidates-profile"
-        />
+        <RoundedButton href="/candidates-profile">
+          Back to Candidates Profile
+        </RoundedButton>
       </div>
     </main>
   );
