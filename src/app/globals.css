@@ -98,3 +98,11 @@ body {
     display: none;
   }
 }
+
+/* Hide fades on very small screens where they eat too much space */
+@media (max-width: 380px) {
+  .carousel-wrapper::before,
+  .carousel-wrapper::after {
+    display: none;
+  }
+}
