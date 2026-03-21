@@ -1,9 +1,8 @@
 import PageHeader from "@/components/PageHeader";
 import Carousel from "@/components/Carousel";
 import RoundedButton from "@/components/RoundedButton";
-import ArticleCard_TBR from "@/components/ArticleCard_TBR";
-import ArticleCard_Published from "@/components/ArticleCard_Published";
 import Image from "next/image";
+import ArticleCard from '@/components/ArticleCard'
 
 
 export default function Home() {
@@ -13,7 +12,7 @@ export default function Home() {
       <PageHeader heading={"Elections\nWatch"} showLogo/>
 
       {/* Our Purpose */}
-      <div className="w-screen px-44 py-20 inline-flex flex-col items-center gap-8">
+      <div className="w-full px-32 py-20 inline-flex flex-col items-center gap-8">
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
@@ -26,13 +25,14 @@ export default function Home() {
         {/* Section Body */}
         <p className="self-stretch text-blue-400 font-normal font-montserrat text-center leading-snug
                      text-md sm:text-lg lg:text-xl">
-          About Us Text
+          An informed vote is a powerful one. Elections Watch exists to hold the electoral process accountable, 
+          spotlight the platforms that shape student governance, and ensure that every Atenean voice is heard.
         </p>
 
       </div>
 
       {/* Know Your Leaders */}
-      <div className="w-screen px-44 py-20 inline-flex flex-col items-center bg-[#E9EBFB] gap-8">
+      <div className="w-screen px-32 py-20 inline-flex flex-col items-center bg-[#E9EBFB] gap-8">
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
@@ -57,7 +57,7 @@ export default function Home() {
       </div>
 
       {/* Deep Dive */}
-      <div className="w-screen px-44 py-20 inline-flex flex-col items-center gap-8">
+      <div className="w-screen px-32 py-20 inline-flex flex-col items-center gap-8">
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
@@ -74,31 +74,19 @@ export default function Home() {
         </p>
 
         <div className="pt-12 pb-20 flex flex-col gap-12 lg:flex-row lg:gap-18">
-          
-          {/*Comment if the articles are available*/}
-          <ArticleCard_TBR text="Editorial" color="red"/>
-          <ArticleCard_TBR text="A Year in Review" color="yellow"/>
-          
-          {/*Uncomment if the articles are available*/}
-          {/* <ArticleCard_Published 
-            text="Editorial" 
-            color="red" 
-            header="Against the crackdown on campus press" 
-            leading="Renowned for its unyielding credibility and firmness in releasing socially-inclined articles pushing for institutional reforms, 
-                     the campus press has not steered away from expressing the viewpoints of the afflicted student body and the masses it serves. 
-                     As this is the case, student publications have also helped the youth develop a stronger sense of social responsibility—eventually 
-                     resulting in active student involvement in pressing national issues." 
-            href="/editorial" image="/ArticleCard_BG.jpg"/>
-            
-          <ArticleCard_Published 
-            text="A Year in Review" 
-            color="yellow" 
-            header="Against the crackdown on campus press" 
-            leading="Renowned for its unyielding credibility and firmness in releasing socially-inclined articles pushing for institutional reforms, 
-                     the campus press has not steered away from expressing the viewpoints of the afflicted student body and the masses it serves. 
-                     As this is the case, student publications have also helped the youth develop a stronger sense of social responsibility—eventually 
-                     resulting in active student involvement in pressing national issues." 
-            href="/year-in-review" image="/ArticleCard_BG.jpg"/>             */}
+                             
+          <ArticleCard
+            status="tbr"
+            text="Editorial"
+            color="red"
+          />
+
+          <ArticleCard
+            status="tbr"
+            text="Year in Review"
+            color="yellow"
+          />
+
         </div>
 
       </div>

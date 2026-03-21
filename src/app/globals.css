@@ -67,20 +67,34 @@ body {
 }
 
 /* Fade edges */
+.carousel-wrapper {
+  position: relative;
+}
+
 .carousel-wrapper::before,
 .carousel-wrapper::after {
   content: '';
   position: absolute;
   top: 0; bottom: 0;
-  width: 80px;
+  width: clamp(30px, 5vw, 80px); /* scales with screen width */
   z-index: 2;
   pointer-events: none;
 }
+
 .carousel-wrapper::before {
   left: 0;
-  background: linear-gradient(to right, #e8eaf6, transparent);
+  background: linear-gradient(to right, var(--carousel-fade-color, #e8eaf6), transparent);
 }
+
 .carousel-wrapper::after {
   right: 0;
-  background: linear-gradient(to left, #e8eaf6, transparent);
+  background: linear-gradient(to left, var(--carousel-fade-color, #e8eaf6), transparent);
+}
+
+/* Hide fades on very small screens where they eat too much space */
+@media (max-width: 380px) {
+  .carousel-wrapper::before,
+  .carousel-wrapper::after {
+    display: none;
+  }
 }
