@@ -40,7 +40,7 @@ export default function Navbar() {
         </div>
 
         {/* Desktop navbar */}
-        <div className="relative hidden md:flex max-w-271 mx-auto px-0 py-5 items-center justify-between">
+        <div className="relative hidden md:flex max-w-271 mx-auto px-6 py-5 items-center justify-between">
           <Link href="/">
             <Image src="/logo-white.png" alt="Atenews Logo" width={40} height={40} />
           </Link>

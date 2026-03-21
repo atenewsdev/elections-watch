@@ -4,7 +4,7 @@ interface CarouselCardProps {
   photo: string;
 }
 
-export default function CarouselCard({ photo }: CarouselCardProps) {
+const CarouselCard = ({ photo }: { photo: string }) => {
   return (
     <div className="w-40 sm:w-50 lg:w-60 shrink-0 rounded-xl overflow-hidden shadow-lg h-80
                     transition-all duration-300 hover:-translate-y-1.5 hover:scale-[1.03] hover:shadow-[0_12px_32px_rgba(26,35,126,0.18)]">
@@ -18,3 +18,5 @@ export default function CarouselCard({ photo }: CarouselCardProps) {
     </div>
   )
 }
+
+export default CarouselCard

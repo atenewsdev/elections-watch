@@ -22,7 +22,7 @@ export default function PageHeader({ heading, disclaimer, showLogo = false }: Pa
         <div className="relative z-10 flex flex-col items-center gap-3 md:gap-4 px-8 md:px-4 w-full">
           {showLogo && (
             <div className="flex items-center">
-              <Image src="/AtenewsLogo_WhiteWhole.png" alt="Atenews" width={214} height={23} className="md:w-50 md:h-9.5" />
+              <Image src="/AtenewsLogo_WhiteWhole.png" alt="Atenews" width={214} height={100} className="md:w-50 md:h-8.5" />
             </div>
           )}
           <h1 className="font-antenna-bold text-[2.5rem] sm:text-5xl md:text-8xl uppercase leading-tight md:leading-none whitespace-pre-line w-full">

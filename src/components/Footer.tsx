@@ -105,7 +105,7 @@ export default function Footer() {
 
         {/* Desktop layout */}
         <div className="hidden md:block">
-          <div className="max-w-271 mx-auto py-12 flex justify-between">
+          <div className="max-w-271 mx-auto py-12 px-6 flex justify-between">
             {/* Left column */}
             <div className="flex flex-col gap-4 max-w-xs">
               {/* Logo + logotype */}
@@ -174,7 +174,7 @@ export default function Footer() {
           </div>
 
           {/* Bottom bar */}
-          <div className="max-w-271 mx-auto pb-6 flex justify-between items-center">
+          <div className="max-w-271 mx-auto pb-6 px-6 flex justify-between items-center">
             <div>
               <p className="text-white text-xs font-montserrat">© 2026 Atenews</p>
               <p className="text-white text-xs font-montserrat italic">End the silence of the gagged!</p>
