@@ -3,6 +3,7 @@
 :root {
   --background: #F3F4FF;
   --foreground: #171717;
+  background-color: #F3F4FF;
 }
 
 @theme inline {
@@ -25,6 +26,7 @@
   --color-blue-600: #14171E;
 
   --gradient-blue: linear-gradient(90deg, var(--color-blue-400) 0%, var(--color-blue-300) 100%);
+  --gradient-hoverblue: linear-gradient(90deg, var(--color-blue-500) 0%, var(--color-blue-400) 100%);
 
   --animate-scroll-left: scroll-left 100s linear infinite;
 
