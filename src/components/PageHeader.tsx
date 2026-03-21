@@ -10,15 +10,13 @@ export default function PageHeader({ heading, disclaimer, showLogo = false }: Pa
   return (
     <>
       <section className="relative w-full py-16 md:py-0 md:h-150 flex flex-col items-center justify-center text-white text-center overflow-hidden">
-        <div className="absolute inset-0">
-          <Image
-            src="/elecwatch-header.png"
-            alt="Elections Watch Header"
-            fill
-            className="object-cover"
-            priority
-          />
-        </div>
+          <div className="absolute inset-0">
+            <img
+              src="/elecwatch-header.png"
+              alt="Elections Watch Header"
+              className="w-full h-full object-cover"
+            />
+          </div>
         <div className="relative z-10 flex flex-col items-center gap-3 md:gap-4 px-8 md:px-4 w-full">
           {showLogo && (
             <div className="flex items-center">
