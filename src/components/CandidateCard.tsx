@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 type CandidateCardProps = {
   photo: string;
@@ -14,27 +15,37 @@ const partyGradient: Record<string, string> = {
   INDEPENDENT: "linear-gradient(to top right, #7A7A7A, #E2E2E2)",
 };
 
+function photoToSlug(photo: string): string {
+  const filename = photo.split("/").pop()!.replace(".jpg", "");
+  return filename.replace(/^[^-]+-/, "");
+}
+
 export default function CandidateCard({
   photo,
   fullName,
   politicalParty,
 }: CandidateCardProps) {
   const gradient = partyGradient[politicalParty] ?? partyGradient["INDEPENDENT"];
+  const slug = photoToSlug(photo);
 
   return (
-    <div className="flex flex-col items-center gap-2 md:gap-4 px-3 py-3 md:px-6 md:py-6 w-fit transition-transform duration-300 ease-in-out hover:scale-101">
+    <Link
+      href={`/candidates-profile/${slug}`}
+      className="flex flex-col items-center gap-2 md:gap-4 px-3 py-3 md:px-6 md:py-6 w-fit transition-transform duration-300 ease-in-out hover:scale-101"
+    >
       {/* Photo with gradient border */}
       <div
         className="rounded-xl md:rounded-2xl p-0.75 shadow-md"
         style={{ background: gradient }}
       >
-        <div className="rounded-[10px] md:rounded-[14px] overflow-hidden bg-white w-52 h-65 md:w-68.5 md:h-85.75">
+        <div className="relative rounded-[10px] md:rounded-[14px] overflow-hidden bg-white w-52 h-65 md:w-68.5 md:h-85.75">
           <Image
             src={photo}
             alt={fullName}
-            width={2048}
-            height={2048}
-            className="object-cover w-full h-full"
+            fill
+            sizes="(max-width: 2080px) 2080px, 2080px"
+            quality={90}
+            className="object-cover"
           />
         </div>
       </div>
@@ -48,6 +59,6 @@ export default function CandidateCard({
           {politicalParty}
         </p>
       </div>
-    </div>
+    </Link>
   );
 }

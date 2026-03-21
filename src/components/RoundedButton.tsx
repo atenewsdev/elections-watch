@@ -10,8 +10,7 @@ export default function RoundedButton({ text, href }: RoundedButtonProps) {
   return (
     <Link
       href={href}
-      style={{ background: "var(--gradient-blue)" }}
-      className="px-8 py-3 text-white text-lg font-medium font-montserrat rounded-full"
+      className="btn-gradient px-8 py-3 text-white text-lg font-semibold font-montserrat rounded-full"
     >
       {text}
     </Link>
