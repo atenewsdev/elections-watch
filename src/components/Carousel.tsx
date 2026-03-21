@@ -6,11 +6,12 @@ const allCandidates = Object.values(candidatesData)
   .flatMap(category => Object.values(category))
   .flat();
 
-const loopedCandidates = [...allCandidates, ...allCandidates];
+// Triple loop for smoother infinite scroll on larger screens
+const loopedCandidates = [...allCandidates, ...allCandidates, ...allCandidates];
 
 const Carousel = () => {
   return (
-    <div className='carousel-wrapper relative w-full overflow-hidden'>
+    <div className='carousel-wrapper relative w-130 lg:w-full md:w-180 overflow-hidden'>
       <div className='carousel-track animate-scroll-left flex gap-5 w-max py-12'>
         {loopedCandidates.map((candidate, index) => (
           <CarouselCard
@@ -19,6 +20,7 @@ const Carousel = () => {
           />
         ))}
       </div>
+
     </div>
   )
 }
