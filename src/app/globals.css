@@ -25,8 +25,7 @@
   --color-blue-500: #203A72;
   --color-blue-600: #14171E;
 
-  --gradient-blue: linear-gradient(90deg, var(--color-blue-400) 0%, var(--color-blue-300) 100%);
-  --gradient-hoverblue: linear-gradient(90deg, var(--color-blue-500) 0%, var(--color-blue-400) 100%);
+  --gradient-blue: linear-gradient(to right, var(--color-blue-400), var(--color-blue-300));
 
   --animate-scroll-left: scroll-left 100s linear infinite;
 
@@ -44,6 +43,15 @@
   --color-ind-gray: #7A7A7A;
 }
 
+
+.btn-gradient {
+  background: var(--gradient-blue);
+  transition: background 0.2s ease;
+}
+
+.btn-gradient:hover {
+  background: linear-gradient(to right, var(--color-blue-500), var(--color-blue-400));
+}
 
 body {
   background: var(--background);
