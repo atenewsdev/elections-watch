@@ -1,45 +1,44 @@
+import ToBeReleased from "@/components/ToBeReleased"
+
 export default function EditorialPage() {
   return (
     <main className="w-full flex flex-col items-center">
 
-      {/* Hero Image */}
-      <div className="w-full h-133.5 overflow-hidden">
+      <ToBeReleased />
+
+      {/* Uncomment the code below when the article is ready to be published */}
+      {/* <div className="w-full h-133.5 overflow-hidden">
         <img
           className="w-full h-full object-cover"
           src="/ArticleCard_BG.jpg"
           alt="Article hero"
+          height={1536}
+          width={2048}
         />
       </div>
 
-      {/* Article Content */}
-      <article className="w-full max-w-271 px-6 flex flex-col gap-10 py-14">
+      <article className="w-full max-w-271 px-10 flex flex-col gap-10 py-14">
 
-        {/* Header Section */}
         <div className="flex flex-col gap-12">
           <div className="flex flex-col gap-6">
 
-            {/* Badge */}
             <span className="self-start px-6 py-2.5 bg-red-400 rounded-full text-white text-2xl font-semibold font-montserrat">
               Editorial
             </span>
 
-            {/* Title */}
             <h1 className="text-blue-400 text-5xl lg:text-7xl font-bold font-montserrat leading-tight">
               Against the crackdown on campus press
             </h1>
-          </div>
 
-          {/* Byline */}
-          <p className="text-neutral-700 text-base font-semibold font-montserrat">
-            By Atenews
-          </p>
+            <p className="text-gray-600 text-base font-semibold font-montserrat">
+              By Atenews
+            </p>
+          </div>
         </div>
 
-        {/* Divider */}
-        <hr className="border-blue-900" />
+        <hr className="border-blue-400" />
 
-        {/* Body */}
-        <div className="text-neutral-700 text-xl font-['Publico_Text'] leading-8 flex flex-col gap-6 pb-24">
+        <div className="text-gray-600 text-xl font-['Publico_Text'] leading-8 flex flex-col gap-6 pb-24">
 
           <p>
             Renowned for its unyielding credibility and firmness in releasing socially-inclined
@@ -182,7 +181,7 @@ export default function EditorialPage() {
           </p>
 
         </div>
-      </article>
+      </article> */}
     </main>
   )
 }

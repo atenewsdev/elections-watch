@@ -10,7 +10,7 @@ const loopedCandidates = [...allCandidates, ...allCandidates];
 
 const Carousel = () => {
   return (
-    <div className='carousel-wrapper relative w-full overflow-hidden'>
+    <div className='carousel-wrapper relative w-130 lg:w-full md:w-180 overflow-hidden'>
       <div className='carousel-track animate-scroll-left flex gap-5 w-max py-12'>
         {loopedCandidates.map((candidate, index) => (
           <CarouselCard
