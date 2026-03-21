@@ -6,7 +6,8 @@ const allCandidates = Object.values(candidatesData)
   .flatMap(category => Object.values(category))
   .flat();
 
-const loopedCandidates = [...allCandidates, ...allCandidates];
+// Triple loop for smoother infinite scroll on larger screens
+const loopedCandidates = [...allCandidates, ...allCandidates, ...allCandidates];
 
 const Carousel = () => {
   return (
@@ -19,6 +20,7 @@ const Carousel = () => {
           />
         ))}
       </div>
+
     </div>
   )
 }
