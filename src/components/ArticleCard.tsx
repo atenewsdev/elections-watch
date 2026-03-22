@@ -20,7 +20,7 @@ export default function ArticleCard({ status, text, color = "gray", header, lead
 
   if (status === "tbr") {
     return (
-      <div className="relative w-100 sm:w-110 md:w-160 lg:w-110 h-72 rounded-xl flex flex-col items-center overflow-hidden shadow-[0_4px_18px_rgba(26,35,126,0.10)]">
+      <div className="relative w-80 h-60 sm:w-110 md:w-160 lg:w-110 sm:h-72 rounded-xl flex flex-col items-center overflow-hidden shadow-[0_4px_18px_rgba(26,35,126,0.10)]">
 
         {/* Background image */}
         <img
