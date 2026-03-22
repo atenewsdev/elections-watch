@@ -16,7 +16,7 @@ export default function Home() {
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
-          <p className="text-blue-400 font-bold font-montserrat leading-tight text-3xl md:text-4xl lg:text-4xl">
+          <p className="text-blue-400 font-bold font-montserrat leading-tight text-2xl md:text-4xl lg:text-4xl">
             VISION
           </p>
           <div className="w-40 border-t-2 border-blue-400"/>
@@ -24,7 +24,7 @@ export default function Home() {
 
         {/* Section Body */}
         <p className="self-stretch text-blue-400 font-normal font-montserrat text-center leading-snug
-                     text-md sm:text-lg md:text-xl">
+                     text-sm sm:text-lg md:text-xl">
           To achieve an advocacy-oriented student government centered on pro-student and pro-people governance, the social context warrants an unrelenting act of challenging the status quo—fighting back against oppressors and rallying along with the underserved. 
           <br /> <br /> In the following days, students will assess the candidates vying for the mantle of genuine student leadership and select whom they deem fit to spearhead their campaigns.
           <br /> <br /> This year, Atenews presents #AtenewsElectionsWatch, the publication’s special coverage of the SAMAHAN Central Board Elections. <span className="font-semibold">The election will run from March 28-31, 2026.</span> 
@@ -37,7 +37,7 @@ export default function Home() {
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
-          <p className="text-blue-400 font-bold font-montserrat leading-tight text-center text-3xl md:text-4xl lg:text-4xl">
+          <p className="text-blue-400 font-bold font-montserrat leading-tight text-center text-2xl md:text-4xl lg:text-4xl">
             KNOW YOUR STUDENT LEADERS
           </p>
           <div className="w-40 border-t-2 border-blue-400"/>
@@ -62,7 +62,7 @@ export default function Home() {
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
-          <p className="text-blue-400 font-bold font-montserrat leading-tight text-3xl md:text-4xl lg:text-4xl">
+          <p className="text-blue-400 font-bold font-montserrat leading-tight text-2xl md:text-4xl lg:text-4xl">
             INQUEST
           </p>
           <div className="w-40 border-t-2 border-blue-400"/>
@@ -70,7 +70,7 @@ export default function Home() {
 
         {/* Section Body */}
         <p className="self-stretch text-blue-400 font-normal font-montserrat text-center leading-snug
-                     text-md sm:text-lg lg:text-xl">
+                     text-sm sm:text-lg lg:text-xl">
           Look into the critical analysis and in-depth discussion on the SAMAHAN Central Board.
         </p>
 
