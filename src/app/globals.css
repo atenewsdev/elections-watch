@@ -59,13 +59,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.carousel-wrapper:hover .carousel-track {
-  animation-play-state: paused;
-  will-change: transform;
-  backface-visibility: hidden;
-  -webkit-font-smoothing: subpixel-antialiased;
-}
-
 /* Fade edges */
 .carousel-wrapper {
   position: relative;
@@ -89,14 +82,6 @@ body {
 .carousel-wrapper::after {
   right: 0;
   background: linear-gradient(to left, var(--carousel-fade-color, #e8eaf6), transparent);
-}
-
-/* Hide fades on very small screens where they eat too much space */
-@media (max-width: 380px) {
-  .carousel-wrapper::before,
-  .carousel-wrapper::after {
-    display: none;
-  }
 }
 
 /* Hide fades on very small screens where they eat too much space */
