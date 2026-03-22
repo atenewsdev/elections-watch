@@ -169,7 +169,7 @@ export default async function CandidateProfilePage({
             />
           </div>
 
-          <h1 className="font-antenna-bold text-2xl md:text-3xl text-blue-600 leading-tight text-center md:text-left">
+          <h1 className="font-montserrat font-bold text-2xl md:text-3xl text-blue-600 leading-tight text-center md:text-left">
             {candidate.fullName}
           </h1>
 
@@ -202,7 +202,7 @@ export default async function CandidateProfilePage({
               {platforms.categories.map((category) => (
                 <div key={category.name} className="flex flex-col gap-5">
                   {/* Category heading */}
-                  <h3 className="font-antenna-bold text-lg md:text-xl text-blue-500">
+                  <h3 className="font-montserrat font-bold text-lg md:text-xl text-blue-500">
                     {category.name}
                   </h3>
 
