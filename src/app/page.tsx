@@ -12,11 +12,11 @@ export default function Home() {
       <PageHeader heading={"Elections\nWatch"} showLogo/>
 
       {/* Our Purpose */}
-      <div className="w-full px-32 py-20 inline-flex flex-col items-center gap-8">
+      <div className="w-full px-12 md:px-32 py-20 inline-flex flex-col items-center gap-8 text-center">
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
-          <p className="text-blue-400 text-4xl font-bold font-montserrat leading-tight">
+          <p className="text-blue-400 font-bold font-montserrat leading-tight text-3xl md:text-4xl lg:text-4xl">
             Our Purpose
           </p>
           <div className="w-40 border-t-2 border-blue-400"/>
@@ -24,7 +24,7 @@ export default function Home() {
 
         {/* Section Body */}
         <p className="self-stretch text-blue-400 font-normal font-montserrat text-center leading-snug
-                     text-md sm:text-lg lg:text-xl">
+                     text-md sm:text-lg md:text-xl">
           An informed vote is a powerful one. Elections Watch exists to hold the electoral process accountable, 
           spotlight the platforms that shape student governance, and ensure that every Atenean voice is heard.
         </p>
@@ -32,11 +32,11 @@ export default function Home() {
       </div>
 
       {/* Know Your Leaders */}
-      <div className="w-screen px-32 py-20 inline-flex flex-col items-center bg-[#E9EBFB] gap-8">
+      <div className="w-screen px-12 lg:px-32 py-20 inline-flex flex-col items-center bg-[#E9EBFB] gap-8">
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
-          <p className="text-blue-400 text-4xl font-bold font-montserrat leading-tight text-center">
+          <p className="text-blue-400 font-bold font-montserrat leading-tight text-center text-3xl md:text-4xl lg:text-4xl">
             Know your Leaders
           </p>
           <div className="w-40 border-t-2 border-blue-400"/>
@@ -44,7 +44,7 @@ export default function Home() {
 
         {/* Section Body */}
         <p className="self-stretch text-blue-400 font-normal font-montserrat text-center leading-snug
-                     text-md sm:text-lg lg:text-xl">
+                     text-md sm:text-lg md:text-xl">
           Look into the candidate profiles and their platforms because an informed vote is a powerful one
         </p>
 
@@ -57,11 +57,11 @@ export default function Home() {
       </div>
 
       {/* Deep Dive */}
-      <div className="w-screen px-32 py-20 inline-flex flex-col items-center gap-8">
+      <div className="w-full px-12 lg:px-32 py-20 inline-flex flex-col items-center gap-8">
 
         {/* Section Heading */}
         <div className="self-stretch flex flex-col items-center gap-6">
-          <p className="text-blue-400 text-4xl font-bold font-montserrat leading-tight">
+          <p className="text-blue-400 font-bold font-montserrat leading-tight text-3xl md:text-4xl lg:text-4xl">
             The Deep Dive
           </p>
           <div className="w-40 border-t-2 border-blue-400"/>
