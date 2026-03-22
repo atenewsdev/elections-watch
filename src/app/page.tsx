@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen items-start bg-[#F3F4FF] overflow-x-hidden">
     
-      <PageHeader heading={"Elections\nWatch"} showLogo/>
+      <PageHeader heading={"Elections\nWatch 2026"} showLogo/>
 
       {/* Our Purpose */}
       <div className="w-full px-12 md:px-16 lg:px-32 xl:px-64 py-20 inline-flex flex-col items-center gap-8 text-center">
