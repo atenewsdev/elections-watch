@@ -5,7 +5,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-// Add your font files to src/app/fonts/ and update the `src` paths below.
+// Add your font files to src/app/fonts/ and update the `src` paths below.`
 // Each font gets its own CSS variable which Tailwind maps to a utility class.
 
 const montserrat = Montserrat({
