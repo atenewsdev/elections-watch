@@ -3,12 +3,14 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "All but a numbers game",
+  description: "Atenews Elections Watch 2026 - Editorial",
   openGraph: {
     title: "All but a numbers game",
+    description: "Atenews Elections Watch 2026 - Editorial",
     url: "https://elections-watch-2026.atenews.ph/editorial",
     images: [
       {
-        url: 'https://elections-watch-2026.atenews.ph/editorial/electionswatch_editorialthumbnail.jpg',
+        url: 'https://elections-watch-2026.atenews.ph/editorial/editorialthumbnail.jpg',
         width: 1200,
         height: 630,
       }   
