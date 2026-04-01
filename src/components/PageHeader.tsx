@@ -10,19 +10,23 @@ export default function PageHeader({ heading, disclaimer, showLogo = false }: Pa
   return (
     <>
       <section className="relative w-full py-16 md:py-0 md:h-150 flex flex-col items-center justify-center text-white text-center overflow-hidden">
-        <div className="absolute inset-0">
-          <Image
-            src="/elecwatch-header.png"
-            alt="Elections Watch Header"
-            fill
-            className="object-cover"
-            priority
-          />
-        </div>
+          <div className="absolute inset-0">
+            <img
+              src="/elecwatch-header.png"
+              alt="Elections Watch Header"
+              className="w-full h-full object-cover"
+            />
+          </div>
         <div className="relative z-10 flex flex-col items-center gap-3 md:gap-4 px-8 md:px-4 w-full">
           {showLogo && (
             <div className="flex items-center">
-              <Image src="/AtenewsLogo_WhiteWhole.png" alt="Atenews" width={214} height={23} className="md:w-50 md:h-9.5" />
+              <Image
+                src="/AtenewsLogo_WhiteWhole.png"
+                alt="Atenews"
+                width={214}
+                height={100}
+                className="w-32 h-auto md:w-50 md:h-auto"
+              />
             </div>
           )}
           <h1 className="font-antenna-bold text-[2.5rem] sm:text-5xl md:text-8xl uppercase leading-tight md:leading-none whitespace-pre-line w-full">
