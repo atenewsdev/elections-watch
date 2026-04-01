@@ -9,7 +9,7 @@ const navLinks = [
   { label: "Home", href: "/" },
   { label: "Candidates Profile", href: "/candidates-profile" },
   { label: "Editorial", href: "/editorial" },
-  { label: "A Year in Review", href: "/year-in-review" },
+  { label: "AY in Review", href: "/ay-in-review" },
 ];
 
 const desktopNavLinks = navLinks.filter((l) => l.label !== "Home");

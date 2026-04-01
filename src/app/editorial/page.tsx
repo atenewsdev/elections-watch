@@ -8,11 +8,13 @@ export const metadata: Metadata = {
   },
 }
 
+export const linkStyles = "text-blue-300 underline hover:text-blue-400 transition-colors";
+
 export default function EditorialPage() {
   return (
     <main className="w-full flex flex-col items-center">
 
-      <ToBeReleased />
+      {/* <ToBeReleased /> */}
 
       {/* Uncomment the code below when the article is ready to be published */}
       {/* <div className="w-full h-133.5 overflow-hidden">
@@ -23,7 +25,7 @@ export default function EditorialPage() {
           height={1536}
           width={2048}
         />
-      </div>
+      </div> */}
 
       <article className="w-full max-w-271 px-10 flex flex-col gap-10 py-14">
 
@@ -35,7 +37,7 @@ export default function EditorialPage() {
             </span>
 
             <h1 className="text-blue-400 text-5xl lg:text-7xl font-bold font-montserrat leading-tight">
-              Against the crackdown on campus press
+              All but a numbers game
             </h1>
 
             <p className="text-gray-600 text-base font-semibold font-montserrat">
@@ -46,150 +48,92 @@ export default function EditorialPage() {
 
         <hr className="border-blue-400" />
 
-        <div className="text-gray-600 text-xl font-['Publico_Text'] leading-8 flex flex-col gap-6 pb-24">
+        <div className="text-gray-600 text-md lg:text-xl font-['Publico_Text'] leading-6 lg:leading-8 flex flex-col gap-6 pb-24">
 
           <p>
-            Renowned for its unyielding credibility and firmness in releasing socially-inclined
-            articles pushing for institutional reforms, the campus press has not steered away from
-            expressing the viewpoints of the afflicted student body and the masses it serves. As
-            this is the case, student publications have also helped the youth develop a stronger
-            sense of social responsibility—eventually resulting in active student involvement in
-            pressing national issues.
+            A new round of political reckoning begins—this time within the university. With the 2026 SAMAHAN Central Board (SCB) Elections set to select the next SCB on March 28 to 31, Ateneo de Davao University (AdDU) students will weigh which bets can truly steer campus politics in the right direction amid an increasingly polarized nation.
           </p>
 
           <p>
-            Enacted by Republic Act No. 11440 in 2019, National Campus Press Freedom Day
-            is observed annually on July 25—formalizing students' constitutional right to
-            autonomously publish, express, and report through the campus press. Yet, susceptibility
-            to issues of school defunding, institutional dissolution, administrative intervention,
-            and censorship—alongside the extramural threat of terror tagging, surveillance, and
-            state-sponsored violence—has long been an enduring bane among student publications
-            that are committed to carrying out liberating coverage of the issues that beset our
-            universities and the nation at large.
-          </p>
-
-          <h2 className="text-xl font-bold font-['Publico_Text']">A law long rendered toothless</h2>
-
-          <p>
-            Campus journalism has been the cornerstone of press freedom within academic institutions
-            long before the martial law. When media organizations were forced to close down after
-            the proclamation, the newsroom lights continued to flicker, releasing pieces critical
-            to the regime. Atenews was one of those that stood at the forefront
-            during the height of the dictatorship, when at that time seeking the truth
-            could get them killed. Campus press have long been the nursery ground for the culture
-            of civic duty through student activism, flourishing even after the regime had long passed.
+            It has been a loud campaign period for all parties running for a position in the SCB, and within the noise are the candidates’ promises, commitments, and platforms, backed with testimonies from their colleagues, that they will enact should they be given the chance to lead in the upcoming academic year. In the nature of politics and partisanship, they have imprinted their identity signifying their association with a political party, or the lack thereof. 
           </p>
 
           <p>
-            Coinciding with the ousting of the Marcos Sr. regime in 1986, Corazon Aquino's
-            administration ratified Republic Act No. 7079, also known as the Campus
-            Journalism Act (CJA) of 1991. This implements growth initiatives and supports campus
-            journalism nationwide, noting the crucial function that the press plays in sparking
-            large-scale movements against the oppressive rule of the dictator.
+            The university’s political landscape over the past five years has been shaped by three parties: Pinag-isang Lakas ng Samahan ng mga Progresibong Atenista (PIGLASAPAT), BAHAGHARI, and Ateneans for Governance, Innovation, Leadership, and Service (AGILAS). In the recent election cycles, PIGLASAPAT fields the overwhelming majority of candidates, while opposition presence remains sparse. AGILAS is also noticeably absent from the race this year.
           </p>
 
           <p>
-            Theoretically, this law aims to uphold campus press "as a means of strengthening
-            ethical values and encouraging critical and creative thinking." At that, the law was
-            revised during the 10th and 11th Congresses. Yet time and time again, its enactment
-            only revealed its futility—from the absence of any mandate for the collection of
-            publication fees, the lack of a requirement for the establishment of student
-            publications, absence of mechanisms to revive defunct publications, to a blatant show
-            of transgressions from the school administrators and government themselves—CJA has
-            proven to be nothing but a piece of paper.
+            Out of the total positions open for this year’s elections, <a href="https://elections-watch.vercel.app/candidates-profile " className={linkStyles}>11 remain uncontested</a>. Across the SCB, all four top positions are occupied by aspirants from PIGLASAPAT, with no opposing bets fielded against them. Meanwhile, for the cluster representatives, only the Social Sciences cluster has two contenders; the others are unopposed, and no candidates have filed for the Natural Sciences and Mathematics and the School of Education clusters. 
           </p>
 
           <p>
-            There is no real remedy to these violations and no consequences for those who impose
-            them. The CJA itself provides no clear procedure for redress when editorial independence
-            is breached. There is no clause that compels institutions to draw the line where
-            supervision ends and interference begins. And so, that line is redrawn again and again
-            by school administrations—inching ever closer toward total control over the student press.
+            This is also not without precedent. <a href="https://atenews.ph/scb-25-takes-office-outlines-student-centered-governance" className={linkStyles}>Last year</a>, we saw PIGLASAPAT securing all four core positions, ushering in a Central Board led by incumbent president Hannah Aquino. The party’s slate extended beyond, securing a significant portion of cluster representative seats and reestablishing its dominance after a brief interruption <a href="https://atenews.ph/bahaghari-ends-ten-year-dry-spell-in-scb-elections-24-sweeps-top-3" className={linkStyles}>in 2024</a> when BAHAGHARI swept the top three seats. Opposition parties maintained limited footholds: BAHAGHARI secured two cluster seats, while AGILAS won one in a competitive three-way race. Despite these wins, they remained numerically outpaced by PIGLASAPAT’s majority.
           </p>
 
           <p>
-            In stark contrast to the ineffective regulations of the CJA, Bayan Muna Partylist
-            Representative Teddy Casiño and Kabataan Partylist Raymond Palatino have authorized
-            House Bill No. 4287 in the 15th Congress—also referred to as the Campus Press
-            Freedom Act—to wage an all-out war against the oppression of the campus press. This
-            addresses the flaws of its predecessor by securing funds, enforcing autonomy, and
-            penalizing infringements on the student journalists' rights and welfare. Thus far,
-            in the past 14 years, the bill has been stuck in committee and has shown no
-            signs of seeing the light of day anytime soon.
-          </p>
-
-          <h2 className="text-xl font-bold font-['Publico_Text']">When free speech is under siege</h2>
-
-          <p>
-            Just last January 2025, Today's Carolinian, the official student publication of the
-            University of San Carlos, lost its office when admins repurposed it for alumni
-            relations without prior notice. In 2019, the same paper was defunded following
-            their critical reportage of the university's tuition and other fee increase (TOFI). A
-            month later, Camarines Sur Polytechnic Colleges' The SPARK came under pressure for
-             publishing a student pre-election survey that placed gubernatorial candidate
-            L-Ray Villafuerte—whose family holds connections over the school's board of
-            trustees—behind in student preference. The post was denounced by Villafuerte's camp
-            as "fake news," and student editors were summoned and asked to take it down under
-            threats of legal action.
+            This year’s roster reflects a continuation—and arguably an intensification—of this imbalance.
           </p>
 
           <p>
-            Atenews is also no stranger to repression. We have long been subject to red-tagging,
-            surveillance, and intimidation—with state forces monitoring our external coverages
-            under the pretence of security. But their presence rather serves as a warning. Since
-            releasing a joint statement in March 2025 with other Ateneo student publications
-            in support of the ICC arrest warrant against Rodrigo Duterte, the red-tagging has only
-            intensified. Posts that touch on national or local politics are often flooded with
-            coordinated attacks—labelling us as enemies or violent extremists.
+            Over the years, several candidates vying for higher office are not newcomers but familiar figures within the same political network. But this year, what emerges, then, is not simply a list of candidates, but a clearer picture of the electoral landscape itself—one where the outcome of several races is determined less by contestation, and more by the absence of it.
           </p>
 
           <p>
-            Without concrete definitions of what constitutes a violation of press freedom, those
-            in power are free to interpret the law in ways that serve their institutional
-            convenience. In many others, journalism is welcomed only when it behaves—invited to
-            write feature stories celebrating school achievements or profiling star faculty and
-            students. But that is as far as journalism is allowed to go. Over time, these
-            publications become glorified "documentation teams" and are entirely reframed as
-            student-led PR units.
-          </p>
-
-          <h2 className="text-xl font-bold font-['Publico_Text']">Reaffirming resistance</h2>
-
-          <p>
-            What happens on campuses is not separate from what happens in the nation. The same
-            tools used to silence student journalists—arbitrary defunding, bureaucratic control,
-            intimidation—are the very tools wielded by the state to suppress public dissent. With
-            declining trust and discontent from the masses who are informed by their punctuated
-            struggle, the state will only intensify its fraudulent measures in the name of luring
-            the populace and stifling their frustration.
+            The lack of multi-party competition recently has created a soft hegemony over the top seats in SCB elections. In the absence of competition, PIGLASAPAT has created a vague legitimate form of succession, in which the chances of an aspiring candidate winning the position also rest on incumbent officers from the same political party's endorsements and overall competence while in office, rather than on the candidate's personal platforms and values. 
           </p>
 
           <p>
-            These very patterns make the student press a mere rehearsal ground for larger political
-            control—limiting critique while it is still young and still learning. And as student
-            voices falter, so do movements, and institutions start turning away from critical
-            thought and toward compliance. And when student journalists are silenced, the loss is
-            not only theirs. It is a loss for the entire academic community—a campus emptied of
-            its conscience.
+            Although a political party could clinch the SCB top posts, this does not automatically translate into winning more seats–possibly affecting how they could fulfill campaign promises. Despite PIGLASAPAT having a monopolistic grip on student governance for decades, a political party’s ability to sway students to vote for their whole slate does not only determine the number of victors and vanquished they will get in an election. 
           </p>
 
           <p>
-            On that account, the necessity for student journalists to reaffirm their participation
-            in the student movement is heightened amidst the entire machinery of oppression. These
-            shared efforts could take the shape of increasing coverage of the youth's predicament,
-            reinforcing the demands they make by evaluating the situations they report more
-            critically, and solidifying connections with the youth and other basic sectors to
-            increase the pressure that will oust the ruling class's imposed measures.
+            Of course, there’s no argument to be made against PIGLASAPAT on the other parties' incapacity to mobilize a strong opposing force to check, and even shatter, the current status quo of AdDU’s political space. Moreso, as long as those elected to the positions—despite the evident lack of competition and near single-party hegemony—did so through due process and ‘democratic’ means, there should be no cause for concern, should there?
           </p>
 
           <p>
-            When our deeply held principles are under siege, we have no excuse to stand by and do
-            nothing. Without fear of retaliation, we have the freedom to stand together in defense
-            against the powers that perpetuate subjugation.
+            However, a ‘minimalist view’ of democracy constitutes that its clearest manifestation in elections lies not in the legitimacy (de jure) of the candidates or the common democratic representative structures, but in the presence of a healthy competition. 
           </p>
+
+          <p>
+            Under such a view, all aspects of what is perceived as ‘democratic’ are all for naught if the only other option available on the ballot box is to abstain. An illusion of choice, per se: a democratic procedure exists on the surface, yet democracy itself erodes and blurs in substance.
+          </p>
+
+          <p>
+            While Ateneans retain the option to not vote, this choice remains fundamentally limited. Although the right not to participate constitutes a valid alternative, it functions merely as a refusal rather than a substantive “competition” in its truest sense—one that proposes no alternative platform or mounts a critique of the opposing force’s action. 
+          </p>
+
+          <p>
+            In contrast to other <a href="https://theguidon.com/2025/03/beyond-the-ballot-unpacking-the-relevance-of-student-governments/" className={linkStyles}>Philippine Higher Education Institutions</a> (HEIs), AdDU has a notably <a href="https://www.facebook.com/share/p/1Cdpmihtjb/" className={linkStyles}>high student voter turnout</a>. This is no longer an issue of student participation alone. The overall turnout reached 57.6% before the initial voting period ended on March 31 at 8:00 PM. However, at 7:30 PM, the period was extended to April 1 at 8:00 PM due to several clusters failing to achieve the required valid turnout by the original deadline. Nevertheless, Article XVII Section 1 of the <a href="https://drive.google.com/file/d/1XsqbH-ReaIdrKgQTNizU39ZptpW8IjFZ/view?fbclid=IwY2xjawQ5kfVleHRuA2FlbQIxMABicmlkETFITTVRWXNHVldRdEh0bVZBc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi5Igw3XEs2EmycmNDGiQzKRwi7lBghLJ78BAvbwPjxTaBZ1Xq38XoRgIZ35_aem_2duIydPd8u_7yf9iQQk_oQ" className={linkStyles}>2026 SAMAHAN Central Board Electoral Code</a> promulgated by the  Ateneo de Davao University Commission on Elections (ADDU-COMELEC) stipulates that elections are validated only if at least fifty percent plus one (50%+1) of the total voting population has cast ballots by the designated deadline; failure to meet this threshold constitutes a failure of elections, with votes tallied but no victors declared.
+          </p>
+
+          <p>
+            The exercise to vote is associated with the freedom to select student leaders who genuinely represent the students’ clamor on societal, political, and economic issues both within and beyond the University. Yet with neither re-election mechanisms nor alternatives in place, Ateneans are left with no choice but to abstain or choose students leaders who are merely available but may not be the most qualified in representing them in student matters. Even conceding varying degrees of competence among contenders, the electorate is compelled to participate merely to conclude the process—a far cry from a truly productive election. 
+          </p>
+
+          <p>
+            The act of abstaining simply does not carry the weight and burden of competition. As such, if continued, the SAMAHAN Central Board will only serve as a game of Trip to Jerusalem, where positions are merely passed around from one person to another within the confines of a single dominant political party. 
+          </p>
+          
+          <p>
+            But even if only one party remains, this does not mean that the student body will simply accept whoever it chooses to run for. It is always appropriate to assess whether the candidates from here are truly worthy of being installed in the position. Scrutinize them and go beyond the façade of their personas. Thereupon, the existence of the option to abstain can also be attributed to the lack of an opposing party, to check the pulse of the student body.
+          </p>
+
+          <p>
+            To be for the students and the people that all candidates claim to be means more than <a href="https://atenews.ph/why-political-parties-are-becoming-more-senseless" className={linkStyles}>repeating the slogan during campaigns</a>; it requires these student leaders to become more than mere mouthpieces, to embody transparency even when it is uncomfortable. For SAMAHAN to persist, the primary question that they answer must always be, “To whom do we serve?” And if left barren, how can this question be answered? A barren student government can only serve the interests of the University administration and a reactionary government whose anti-student and anti-democratic policies thrive at the waning resistance they can easily drown out and silence.
+          </p>
+
+          <p>
+            After all, this election was less about inevitable victories and more about what these SCB aspiring candidates will do for the community that entrusted them, however cautiously, with power. This must not be a battleground for whose political principle prevails and dominates the campus.
+          </p>
+
+          <p className="italic mt-16">
+            Editor's Note: This article has also been crossposted here: 
+            <a href="https://atenews.ph/all-but-a-numbers-game" className={linkStyles}> https://atenews.ph/all-but-a-numbers-game</a>.
+          </p>
+
 
         </div>
-      </article> */}
+      </article>
     </main>
   )
 }

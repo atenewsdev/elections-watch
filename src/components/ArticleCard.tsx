@@ -20,7 +20,7 @@ export default function ArticleCard({ status, text, color = "gray", header, lead
 
   if (status === "tbr") {
     return (
-      <div className="relative w-80 h-60 sm:w-110 md:w-160 lg:w-110 sm:h-72 rounded-xl flex flex-col items-center overflow-hidden shadow-[0_4px_18px_rgba(26,35,126,0.10)]">
+      <div className="relative w-90 h-80 sm:w-140 sm:h-70 lg:w-120 lg:h-80 rounded-xl flex flex-col items-center overflow-hidden shadow-[0_4px_18px_rgba(26,35,126,0.10)]">
 
         {/* Background image */}
         <img
@@ -35,7 +35,7 @@ export default function ArticleCard({ status, text, color = "gray", header, lead
           <div className={`px-6 py-1.5 rounded-full ${colors[color]} text-white font-semibold font-montserrat`}>
             {text}
           </div>
-          <p className="self-stretch text-center text-slate-800 text-3xl font-bold font-montserrat">
+          <p className="self-stretch text-center text-slate-800 text-2xl lg:text-3xl font-bold font-montserrat">
             To be Released
           </p>
         </div>
@@ -45,10 +45,10 @@ export default function ArticleCard({ status, text, color = "gray", header, lead
   }
 
   return (
-    <div className="relative w-72 sm:w-140 lg:w-120 rounded-xl flex flex-col overflow-hidden shadow-[0_4px_18px_rgba(26,35,126,0.10)]">
+    <div className="relative w-90 sm:w-140 lg:w-120 rounded-xl flex flex-col overflow-hidden shadow-[0_4px_18px_rgba(26,35,126,0.10)]">
 
-      {/* Image */}
-      <img className="w-full h-64 object-cover" src={image} alt={header} />
+      {/* Image
+      <img className="w-full h-64 object-cover" src={image} alt={header} /> */}
 
       {/* Content */}
       <div className="flex flex-col gap-8 p-6">
@@ -65,7 +65,7 @@ export default function ArticleCard({ status, text, color = "gray", header, lead
           </h3>
 
           {/* Leading */}
-          <p className="text-neutral-500 text-sm font-montserrat text-justify">
+          <p className="text-neutral-500 text-sm font-publico-roman text-justify">
             {leading}
           </p>
 
