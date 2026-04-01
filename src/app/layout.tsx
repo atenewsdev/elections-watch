@@ -46,6 +46,16 @@ export const metadata: Metadata = {
         width: 1200,
         height: 630,
       },
+      {
+        url: 'https://elections-watch-2026.atenews.ph/editorial/electionswatch_editorialthumbnail.jpg',
+        width: 1200,
+        height: 630,
+      },
+      {
+        url: 'https://elections-watch-2026.atenews.ph/ay-in-review/electionswatch_ayinreviewthumbnail.jpg',
+        width: 1200,
+        height: 630,
+      },      
     ],    
   },
   icons: {
