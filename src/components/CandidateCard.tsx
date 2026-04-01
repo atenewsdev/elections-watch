@@ -52,7 +52,7 @@ export default function CandidateCard({
 
       {/* Name & party */}
       <div className="flex flex-col items-center gap-0.5 md:gap-1 text-center">
-        <p className="font-antenna-bold text-base md:text-2xl text-blue-600 leading-tight">
+        <p className="font-montserrat font-bold text-base md:text-2xl text-blue-600 leading-tighter">
           {fullName}
         </p>
         <p className="font-montserrat font-semibold text-[10px] md:text-sm tracking-widest uppercase text-ind-gray">

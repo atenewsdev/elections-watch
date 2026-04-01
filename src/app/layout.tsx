@@ -34,8 +34,11 @@ const publicoRoman = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Elections Watch",
-  description: "Atenews Elections Watch",
+  title: "Elections Watch 2026",
+  description: "Atenews Elections Watch 2026",
+  icons: {
+    icon: "/electionswatch_favicon.svg",
+  },
 };
 
 export default function RootLayout({

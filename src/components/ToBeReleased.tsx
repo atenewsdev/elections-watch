@@ -3,7 +3,7 @@ import React from 'react'
 const ToBeReleased = () => {
   return (
         <div className="w-full flex flex-col items-center px-10">
-            <div className='w-full min-h-[calc(100vh-28rem)] justify-center items-center flex flex-col'>
+            <div className='w-full min-h-[85vh] justify-center items-center flex flex-col'>
                 <div className="flex flex-col items-center gap-4">
                     <p className="self-stretch text-center text-blue-400 font-bold font-montserrat
                                   text-5xl lg:text-6xl">
