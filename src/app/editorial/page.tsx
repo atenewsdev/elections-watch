@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     url: "https://elections-watch-2026.atenews.ph/editorial",
     images: [
       {
-        url: 'https://elections-watch-2026.atenews.ph/editorial/editorialthumbnail.jpg',
+        url: 'https://elections-watch-2026.atenews.ph/editorialthumbnail.jpg',
         width: 1200,
         height: 630,
       }   
