@@ -115,7 +115,7 @@ export default function EditorialPage() {
           </p>
 
           <p>
-            After all, this election was less about inevitable victories and more about what these SCB aspiring candidates will do for the community that entrusted them, however cautiously, with power.
+            After all, this election was less about inevitable victories and more about what these SCB aspiring candidates will do for the community that entrusted them, however cautiously, with power. This must not be a battleground for whose political principle prevails and dominates the campus.
           </p>
 
           <p className="italic mt-16">
