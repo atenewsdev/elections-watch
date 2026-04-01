@@ -1,4 +1,23 @@
 import ToBeReleased from "@/components/ToBeReleased"
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "All but a numbers game",
+  openGraph: {
+    title: "All but a numbers game",
+    url: "https://elections-watch-2026.atenews.ph/editorial",
+    images: [
+      {
+        url: 'https://elections-watch-2026.atenews.ph/editorial/electionswatch_editorialthumbnail.jpg',
+        width: 1200,
+        height: 630,
+      }   
+    ],    
+  },
+  icons: {
+    icon: "/electionswatch_favicon.svg",
+  },
+};
 
 export const linkStyles = "text-blue-300 underline hover:text-blue-400 transition-colors";
 
