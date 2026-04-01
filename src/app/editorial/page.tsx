@@ -1,4 +1,12 @@
 import ToBeReleased from "@/components/ToBeReleased"
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  openGraph: {
+    title: 'All but a numbers game',
+    images: [{ url: 'https://elections-watch-2026.atenews.ph/editorial/electionswatch_editorialthumbnail.jpg' }],
+  },
+}
 
 export default function EditorialPage() {
   return (
