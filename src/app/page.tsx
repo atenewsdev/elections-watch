@@ -74,12 +74,15 @@ export default function Home() {
           Look into the critical analysis and in-depth discussion on the SAMAHAN Central Board.
         </p>
 
-        <div className="pt-12 pb-20 flex flex-col gap-12 lg:flex-row lg:gap-18">
+        <div className="pt-12 pb-20 flex flex-col gap-12 lg:flex-row lg:gap-18 items-center">
                              
           <ArticleCard
-            status="tbr"
+            status="published"
             text="Editorial"
+            header="All but a numbers game"
+            leading="A new round of political reckoning begins—this time within the university. With the 2026 SAMAHAN Central Board (SCB) Elections set to select the next SCB on March 28 to 31, Ateneo de Davao University (AdDU) students will weigh which bets can truly steer campus politics in the right direction amid an increasingly polarized nation."
             color="red"
+            href="/editorial"
           />
 
           <ArticleCard
