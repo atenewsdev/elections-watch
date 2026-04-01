@@ -36,6 +36,18 @@ const publicoRoman = localFont({
 export const metadata: Metadata = {
   title: "Elections Watch 2026",
   description: "Atenews Elections Watch 2026",
+  openGraph: {
+    title: "Elections Watch 2026",
+    description: "Atenews Elections Watch 2026",
+    url: "https://elections-watch-2026.atenews.ph",
+    images: [
+      {
+        url: 'https://elections-watch-2026.atenews.ph/electionswatch_thumbnail.jpg',
+        width: 1200,
+        height: 630,
+      }   
+    ],    
+  },
   icons: {
     icon: "/electionswatch_favicon.svg",
   },
